@@ -1,0 +1,40 @@
+udo
+
+下载jdk8
+
+先新建一个文件夹，目录是/usr/local/java
+mkdir /usr/local/java
+也可以在Xftp中新建文件夹
+在左侧的Windows目录中找到下载的jdk源码包，双击传入Linux的/usr/local/java目录
+
+jdk解压
+命令行进入/usr/local/java文件夹
+cd /usr/local/java
+解压：tar zxvf 压缩包名称 （例如：tar zxvf jdk-8u191-linux-x64.tar.gz）后面的名称可以只输入一个tar zxvf j，然后使用Tab按键自动补全文件名
+删除压缩包：rm -f 压缩包名称 （例如 rm -f jdk-8u191-linux-x64.tar.gz）
+环境变量配置
+编辑/etc/profile文件
+vi /etc/profile
+按Insert或者I键，切换成编辑模式。
+找到内容末尾，按图片输入下面一段话。
+在unset i的前面输入
+
+export JAVA_HOME=/usr/local/java/jdk1.8.0_212
+export CLASSPATH=.:$JAVA_HOME/jre/lib/rt.jar:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+export PATH=$PATH:$JAVA_HOME/bin
+#（！！！注意：JAVA_HOME的路径是你实际解压后的JDK的路径，千万别写错了）
+
+
+按Esc退出编辑模式，输入:wq保存并退出
+
+生效环境变量
+对于/etc/profile编写完成之后是不够的，还需要最后一个步骤，就是让刚刚我们修改的文件变成有效起来，所以我们再输入一个命令，让修改生效。
+生效命令：source /etc/profile
+验证安装成功与否
+java -version
+
+
+
+
+
+
