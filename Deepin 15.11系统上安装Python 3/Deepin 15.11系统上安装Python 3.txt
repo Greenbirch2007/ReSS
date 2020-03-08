@@ -1,0 +1,49 @@
+Deepin 15.11系统上安装Python 3
+
+
+一、使系统更新及安装依赖包
+
+在安装之前建议先更新深度Deepin 15.11操作系统，同时安装必需的依赖包，这样在编译Python-3.7.4.tgz的过程中就非常顺利了，在系统终端中运行以下命令：
+
+sudo apt update
+
+sudo apt install -y make build-essential libssl-dev zlib1g-dev
+
+sudo apt install -y libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm
+
+sudo apt install -y libncurses5-dev libncursesw5-dev xz-utils tk-dev
+
+二、下载Python-3.7.4.tgz包并编译安装
+
+在终端中运行以下命令下载源码包：
+
+wget https://www.python.org/ftp/python/3.7.4/Python-3.7.4.tgz
+
+或到 https://www.python.org/downloads/ 下载：
+
+
+
+从压缩包解压Python-3.7.4.tgz源代码：
+
+tar xvf Python-3.7.4.tgz
+
+参考：tar命令_Linux tar命令使用详解：Linux下的归档使用工具，用来打包与备份。
+
+进入到目录，运行./configure配置构建文件：
+
+cd Python-3.7.4
+
+./configure --enable-optimizations
+
+三、运行以下命令编译安装
+
+make -j8 && sudo make altinstall
+
+sudo make clean
+
+到了这里，安装Python 3.7.4已经全部完成，你可以在终端中执行python3.7了。
+
+
+
+virtualenv  -p /usr/local/bin/python3.7 /home/greenb/pyenv
+

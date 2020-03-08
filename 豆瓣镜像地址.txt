@@ -1,0 +1,14 @@
+pip3.7 install requests, lxml, pymysql -i "https://pypi.doubanio.com/simple/"
+
+
+pip3.7 install --upgrade pip -i "https://pypi.doubanio.com/simple/"
+
+alias cpy="cd /home/greenb/pyenv/bin"
+alias py=" source activate"
+
+
+alias mydomain='cd /home/wwwroot/www.mydomain.com/'
+
+
+
+pip install requests  lxml  pymysql -i "https://pypi.doubanio.com/simple/"
