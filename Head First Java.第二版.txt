@@ -1,0 +1,264 @@
+
+
+
+head first java
+
+
+
+编写程序，编译，运行
+
+
+java的工作方式
+
+它的目标是要让你写出一个应用程序
+
+
+源代码 (编写源代码文件)
+
+
+编译器(用编译器运行源代码)
+
+输出:编译器会产出字节码
+
+
+java虚拟机(JVM)
+
+用javac编译程序把文件进行编译，然后在某个Java虚拟机上执行编译
+过的字节码
+
+
+源文件(.java)带有类的定义。类用来表示程序的一个组件，
+小程序或许只会一个类。类的内容必须包在花括号里面
+
+
+类
+public class Dog{}
+
+
+类存于源文件里面
+方法存于类中
+语句(statement)存于方法中
+
+
+什么是类？
+
+
+类中带有一个或多个方法。在Gog这个类中，bark方法带有，方法必须在类的内部声明
+
+
+public class Dog{
+	void bark()
+}
+
+方法
+
+
+什么是方法？
+
+
+在方法的花括号中编写方法应该执行的指令。
+方法代码是友一组语句所组成，你可以把方法想象成一个函数或过程。
+
+public class Dog{
+	void bark(){
+	statement1;
+	statement2;
+}}
+
+
+
+剖析类
+
+当java虚拟机启动执行时，它会寻找在命令列所指定的类。然后它会锁定
+
+
+public static void main(String[] args){
+	}
+
+
+接着Java虚拟机就会执行main方法在花括号间的函数所有指令。每个java程序
+最少都会有一个类以及一个main().
+
+每个应用程序只有一个main()函数
+
+
+public  公开给其他类存取
+class 类声明
+MyClass 类的名称
+
+{ 类的左括号
+
+void 代表没有返回值 
+main  方法的名称
+String[]  必须要传String的数组给此方法当参数，命名为args
+
+{ 方法 的左括号
+
+out 打印到标准输出上(默认为命令行)
+“ss” 要输出的字符串
+
+;每一行结束都必须用分号结尾
+
+
+编写带有main()的类
+
+在java中的所有东西都会属于某个类
+
+
+你会建立源文件(扩展名为.java)，然后将它编译成新的类文件(扩展名为.class)
+
+真正被执行的是类
+
+
+main()就是程序的起点
+
+
+保存，编译，运行
+
+
+1.做某事
+
+声明，设定，调用方法等普通语句
+
+int x  =3;
+String name = "Dirk";
+x = x *17;
+System.out.Print("x is"+x);
+double d = Math.random();
+
+
+2. 反复某件事
+for ,while的循环(loop)
+
+
+while (x>12){
+	x = x-1;
+}
+
+
+for (int x=0;x <10;x=x+1){
+	System.out.print("x is now " +x);
+}
+
+
+空格符通常无关紧要
+
+用名称与类型(type)来声明变量
+
+类型与方法都必须定义在花括号中。
+
+public void go(){}
+
+3. 在适当条件做某件事
+
+
+if/else 的条件分支测试
+
+if (x==10){
+	System.out.println("x must be 10");
+}else{
+	System.out.println("x isn't 10");
+}
+
+
+if ((x <3) & (name.equals("Dirt"))){
+	System.out.println("Gently");
+}
+	System.out.println("this line runs no matter what");
+
+while (moreBalls == true){
+	keepJuggling());
+
+
+
+int x =4;
+
+while (x>3){
+	x = x-1;
+}
+
+
+int z =27;
+while (z==17){
+	}
+
+
+为何所有的东西都得包含在类中？
+
+因为java是面向对象的语言，它不像是以前的程序语言那样。
+类是对象的蓝图，而java中的绝大多数东西都是独享
+
+
+并不是每一个类都需要加上一个main
+
+
+java中的integer与boolean两种类型并不相容。
+
+boolean isHot =true;
+while(isHot){}
+
+
+语句以分号结束
+程序块以{}划出范围
+用名称与类型声明变量
+等号是赋值运算符
+两个等号用来当等号运算符
+
+只要条件测试结果为真，while循环就会一直执行块内的程序
+
+把boolean测试放在括号中
+while (x==4){}
+
+system.out.println会在最后面插入换行，若你想让后续的输出以新的一行开始
+可以使用println
+若是使用print则后续的输出还是会在同一行
+
+
+设计真正的应用程序
+
+
+java编译器负责对.java文件编译成.class内文件(字节码文件，以供jvm使用)
+
+jvm负责运行.class内文件，jvm最重要的作用是实现操作系统与代码的无关性(程序与操作系统分离
+)
+ 	
+
+
+2. 类与对象
+
+
+以对象来思考
+
+当你在设计类时，要记得对象是靠类的模型塑造出来的
+
+对象是已知的事物
+对象会执行的动作
+
+对象本身已知的事物被称为实例变量(instance variable)
+
+
+对象可以执行的动作被称为方法(methods)
+
+实例变量(状态)
+
+方法(行为)
+
+
+对象本身已知的食物称为实例变量(instance variable)
+它们代表对象的状态(数据)，且该类型的每一个对象都会独立的
+拥有一份该类型的值
+
+
+所以也可以把对象当作为实例
+
+
+对象可以执行的打破给你做称为方法
+在设计类时，也会设计出操作对象数据的方法。
+对象带有读取或操作实例变量的方法是很常见的
+
+对象带有实例变量和方法，但它们都是类设计中的一部分
+
+
+到底类与对象两者之间有什么不同？
+
+p35

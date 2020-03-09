@@ -1,0 +1,23 @@
+linux（Deepin） 安装MariaDB
+
+代码很简单：
+
+sudo apt-get install mariadb-server-10.1 -y
+
+
+
+需要注意的就是 版本号必须加上，不加有时不会成功。
+
+
+
+
+MariaDB [(none)]> UPDATE mysql.user SET authentication_string = PASSWORD('1223456'), plugin = 'mysql_native_password' WHERE User = 'root' AND Host = 'localhost';
+MariaDB [(none)]> FLUSH PRIVILEGES;
+MariaDB [(none)]> exit
+
+
+关闭，重启服务：
+
+$ service mysql stop
+$ sudo service mysql start
+
