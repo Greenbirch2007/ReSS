@@ -1,19 +1,10 @@
-class Dog{
-    int size;
-    String name;
-
-
-    void bark(){
-        if (size>60){
-            System.out.println("wooof~~~");
-        }else if (size>14){
-            System.out.println("rufff~~~");
-            
-        }else{
-            System.out.println("yip~~");
-
-        }
-
+class GoodDog{
+    private int size;
+    public int getSize(){
+        return size;
+    }
+    public void setSize(int s) {
+        size =s;
     }
 }
 

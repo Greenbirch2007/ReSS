@@ -11,4 +11,4 @@ alias mydomain='cd /home/wwwroot/www.mydomain.com/'
 
 
 
-pip install requests  lxml  pymysql -i "https://pypi.doubanio.com/simple/"
+pip install selenium -i "https://pypi.doubanio.com/simple/"
