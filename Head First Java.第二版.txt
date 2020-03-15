@@ -2578,4 +2578,301 @@ Canlendar cal = Calendar.getInstance();
 
 
 
-p305
+图形化编程GUI
+
+
+一个类可以嵌套在另一个类的内部。只要确定内部类的定义是包在外部类的括号中就可以
+
+class MyQuterClass{
+	class MyInnerClass{
+		void go(){
+	}
+}
+}
+
+
+
+内部类可以使用外部的变量
+
+class MyQuterClass{
+	private int x;
+	class MyInnerClass {
+		void go(){
+		x = 42;
+		}
+}
+
+内部类的实例一定会绑在外部类额实例上×
+
+
+任意一个内部类可以存取其他外部类的方法和变量
+
+
+1.创建外部类的实例
+2. 使用外部类的实例来创建内部类的实例
+
+3. 外部和内部对象有着亲密的连接
+
+如何创建内部类的实例
+
+
+如果你从外部类程序代码中初始化内部的类，比如内部对象绑在该外部对象上。
+例如，如果某个方法的程序代码会初始化内部的类，此内部对象会绑在执行该
+方法的实例上
+
+外层类的程序代码可以用初始化其他类完全相同的方法初始它所包容的内部类
+
+class MyQuter{
+	private int x;
+	MyInner inner = new MyInner();
+	public void doStuff(){
+		inner.go();
+	}
+
+	class MyInner{
+		void go(){
+		x = 42;
+	}
+	}
+
+外部有个私用的x实例变量
+
+创建内部的实例
+调用内部的方法
+
+内部可以使用外部的x变量
+
+你也可以从外部类以外的程序代码来初始内部实例，但这要使用特殊的语法
+
+
+class Foo{
+	public static void main(String[] args){
+		MyOuter outerObj = new MyOuter();
+		MyOuter.MyInner inner Obj = outerObj.new MyInner();
+}
+}
+
+
+以内部类执行动画效果
+
+
+第14章 运用Swing(也同样是GUI编程)
+
+
+第14章 序列化和文件的输入/输出
+
+保存对象
+
+对象可以被序列化也可以展开。对象有状态和行为两种属性。
+行为存在于类中，而状态存在于个别的对象中。所以需要存储对象状态的时
+
+
+
+存储状态的选择有很多中，
+
+如果只有自己写的java程序会用到这些数据
+
+1.用序列化(serialization)
+
+将被序列化的对象写到文件中。然后就可以让你的程序去文件中读取序列化的对象并把
+它们展开回到活生生的状态
+
+
+如果数据需要被其他程序引用：
+
+
+2. 写一个纯文本文件。用其他程序可以解析的特殊字符写到文件中。
+
+存储状态
+
+
+将序列化对象写入文件
+
+1.创建出FileOutputStream
+
+
+FileOutputStream fileStream = new FileOutputStream("MyGame.ser");
+
+
+2. 创建ObjectOutputStream
+
+
+ObjectOutputStream  os = new ObjectOutputStream(fileStream);
+
+3. 写入对象
+
+os.WriteObject(characterOne);
+os.WriteObject(characterTwo);
+os.WriteObject(characterThree);
+
+
+4.关闭ObjectOutputStream
+
+
+os.close();
+
+数据在串流中移动
+
+将串流(stream)连接起来代表来源与目的地(文件或网路端口)的连接。
+串流必须要连接到某处才能算是个串流
+
+
+java的输入/输出api带有连接类型的串流，它代表来源与目的地之间的连接，连接串流将串流
+与其他串流连接起来
+
+
+一般来说，串流要两两连接爱能作出有意义的事情
+每个类只要做好一件事。FileOutputStream把字节写入文件。
+ObjectOutputStream把对象转换成可以写入串流的数据。
+当我们调用ObjectOutputStream的writeObject时，
+对象会被打成串流送到FileOutputStream来写入文件。
+
+
+
+这样就可以通过不同的组合来达到最大的适应性
+
+对象被序列化的时候发生了什么事情？
+
+1.在堆上的对象
+在堆上的对象有状态-实例变量的值。这些值让同一类的不同实例有不同的意义
+
+2. 被序列化的对象
+
+序列化的对象保存了实例变量的值，因此只会可以在堆上带回一模一样的的实例
+
+
+对象的状态是什么？
+
+Car对象有两个是变量引用到其他的对象
+
+
+当对象被序列化时，被该对象引用的实例变量也会被序列化。且所有被引用的对象也会被序列化
+
+序列化程序会将对象版图上的所有东西存储起来。被对象的实例变量所引用的
+所有对象都会被序列化
+
+
+如果要让类能够被序列化，就实现Seializable
+
+
+Serializable接口又被称为marker或tag类的标记用接口，因此此接口并没有任何方法
+需要实现的。它的唯一目的就是声明有实现它的类是可以被序列化的。
+此类型的对象可以通过序列化的机制来存储。
+如果某类是可以序列化的，则它的子类也自动地可以序列化(接口的本意就是如此)
+
+
+objectOutputStream.writeObject(myBox);
+
+
+任何放在此处的对象都必须要实现序列化，否则在执行期一定会出现问题
+
+
+
+import java.io.*;
+
+
+public class Box implements Serializable {
+	private int width;
+	private int height;
+	
+
+	public void setWidth(int w){
+		width =w;
+	}
+
+	public void setHeight(int h){
+		height = h;
+	}
+
+
+public static void main(String[] args){
+	Box myBox = new Box();
+	myBox.setWidth(5);
+	myBox.setHeight(6);
+	try{
+		FileOutputStream fs = new FileOutputStream("foo.ser");
+		ObjectOutputStream os = new ObjectOutputStream(fs);
+		os.writeObject(myBox);
+		os.close()
+	}catch(Exception ex){
+		ex.printStackTrace();
+}
+}
+}
+
+序列化是全有或全无的
+
+整个对象版图都必须正确地序列化，不然就得全部失败
+
+如果Duck对象不嗯给你序列化，Pond对象就不能被序列化
+
+
+import java.io.*;
+
+
+public class Pond implements Serializable{
+	private Duck duck = new Duck();
+	public static void main(String [] args){
+	Pond myPond = new Pond();
+	try{
+		FileOutputStream fs = new FileOutputStream("Pond.ser");
+ObjectOutputStream os = new ObjectOutputStream(fs);
+
+	os.writeObject(myPond);
+	os.close();
+} catch(Exception ex){
+	ex.printStackTrace();
+}
+}
+}
+
+
+public class Duck{
+	}
+
+
+如果某实例变量不能或不应该被序列化，就把它标记为transient(瞬时)的
+
+
+如果你需要序列化程序能够跳过某个实例变量，就把它标记成transient的变量
+
+
+import java.net.*;
+class Chat implements Serializable{
+	transient String currentID;
+	String userName;
+
+
+}
+
+
+
+如果你无法序列化的变量不能被存储，可以用transient这个关键词
+把它标记出来，序列化程序会跳过
+
+解序列化(Deserialization)
+
+
+将对象序列化整件事件的重点在于你可以在事后，在不同的java虚拟机执行期(甚至
+不是同一个java虚拟机)，把对象恢复到存储时的状态，解序列化
+有点像序列化的反向操作
+
+
+1. 创建FileInuputStream
+
+
+对象的序列化
+
+你可以通过序列化来存储对象的状态
+
+使用ObjectOutputStream来序列化对象(java.io)
+
+Stream是连接串流或是链接用的串流
+
+
+连接串流用来表示源或目的地，文件，网络套接字连接
+
+
+
+p447
+

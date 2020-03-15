@@ -1,24 +1,16 @@
-public Duck(){
-	size =34;
+public void doStuff(){
+	boolean b = true;
+	go(4);
 }
 
 
-
-public class Duck{
-	int size;
-	public Duck(){
-	System.out.println("duck~~~");
-}
-	public void setSize (int newSize){
-		size = newSize;
-	}
+public void go(int x){
+	int z=x+24;
 	
 }
 
+public void crazy(){
+	char c="a";
+}
 
-public class UseADuck{
-	public static void main(String[] args)
-	Duck D = new Duck();
-	d.setSize(42);
-}
-}
+
