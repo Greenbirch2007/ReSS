@@ -2874,5 +2874,121 @@ Stream是连接串流或是链接用的串流
 
 
 
-p447
 
+
+编写简答的服务器程序
+
+编写服务器应用程序要用到的东西
+
+一对Socket.它们是一个会等待用户请求(当用户创建Socket时)
+的ServerSocket以及与用户通信用到的Socket
+
+工作方式
+
+1.服务器应用程序对特定端口创建出ServerSocket
+
+ServerSocket serverSock = new ServerSocket(4242);
+
+
+2.客户端堆服务器应用程序建立Socket连接
+
+Socket sock= new Socket("190.165.1.103",4242);
+
+
+
+3. 服务器创建出与客户端通信的新Socket
+
+Socket sock = serverSock.accept();
+
+客户端与服务器的应用程序通过Socket连接来沟通
+
+
+Socket代表两个应用程序之间的连接，它们可能会是在不同的
+机器上执行的
+
+客户端必须知道服务器应用程序的IP地址(或网域名称)和端口号
+
+
+TCP端口号是个16位的值，用来指定特定的应用程序。它能够
+让用户连接到服务器上各种不同的应用程序
+
+从0~1023的端口号是保留给HTTP,FTP,SMTP等已知的服务
+
+
+客户端能通过建立Socket来连接服务器
+
+
+Socket s = new Socket("127.0.0.1",4200);
+
+
+一旦建立了连接，客户端可以从socket取得低层串流
+
+sock.getInputStream();
+
+
+建立BufferedReader连接InputStreamReader与来自
+Socket的输入串流以读取服务器的文本数据
+
+
+InputStreamReader是个转换字节成字符的桥梁。
+它主要是用来链接BufferedReader与低层的Socket输入串流
+
+
+建立直接链接Socket输出串流的PrintWriter请求print()
+方法或println()方法来送出String给服务器
+
+服务器可以使用ServerSocket来等待用户对特定端口的请求
+
+
+当ServerSocket接到请求时，它会做一个Socket连接
+来接收客户端的请求
+
+
+java有多个线程但只有中Thread类
+
+当你看到我们讨论线程时代表的是独立的线程，也即是独立的
+执行空间。当你你看到Thread时，
+在java中以大写字母开始的东西是类，所以Thread是java.lang
+这个包中的一个类。
+Thread对象代表线程，当你需要启动新的线程时就建立
+Thread的实例
+
+
+线程是独立的线程。它代表独立的执行空间
+
+Thread是java中用来表示线程的类
+
+要建立线程就得创建Thread
+
+
+主线程 thread  由程序启动的此案成
+
+Thread  void join()
+void start()
+
+
+static void sleep()
+
+java.lang.Thread类
+
+
+线程是独立的线程，它代表独立的执行空间。每个java应用
+程序会启动一个主线程---将main()放在它自己执行空间的最开始
+处。Java虚拟机会负责主线程的启动(以及比如垃圾手机所需的系统
+用线程)。程序员得负责启动自己建立的线程。
+
+
+
+Thread是个表示线程的类。它有自动线程，连接线程和让
+线程闲置的方法
+
+
+有一个以上的执行空间代表什么？
+
+
+当有超过一个以上的执行空间时，执行动作可以在执行空间非常快速
+地来回交换，因此你会感觉到没想任务都在执行。
+
+
+java也只是个在低层操作系统上执行的级才能n
+p491
