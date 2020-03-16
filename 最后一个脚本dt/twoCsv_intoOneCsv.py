@@ -51,10 +51,10 @@ def ccc_l(l1,l2):
 
 # 保存csv文件
 
-def writeIntoCSV(myList):
-    with open('f.csv', 'wb') as myFile:
-        myWriter = csv.writer(myFile)
-        myWriter.writerows(myList)
+# def writeIntoCSV(myList):
+#     with open('f.csv', 'wb') as myFile:
+#         myWriter = csv.writer(myFile)
+#         myWriter.writerows(myList)
 
 
 
