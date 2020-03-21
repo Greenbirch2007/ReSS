@@ -1,0 +1,503 @@
+1,以下Python2和Python3的说法正确的有（）,https://www.nowcoder.com//questionTerminal/b999a7012cfd4e549f55bca365a4ce06
+2,Python 文件只读打开模式是（）,https://www.nowcoder.com//questionTerminal/545d8dc92f37462e8b1ab0c3f189b1d0
+3,以下python语句的执行结果是（版本为Python 2.7.13） im...,https://www.nowcoder.com//questionTerminal/591a1ae32ff447e5b9cff24bd144a6cd
+4,Python 标记语句块使用,https://www.nowcoder.com//questionTerminal/601134eca052440eb2cdbfb7af5a5056
+5,Python锁,https://www.nowcoder.com//questionTerminal/5d1a10c277114a3a9787504cec0f5daa
+6,Python 锁,https://www.nowcoder.com//questionTerminal/a22f4216f36041e3bbb717b399edb0bc
+7,Python 多进程,https://www.nowcoder.com//questionTerminal/9d3863598acd4920b4880b3b6b8787c7
+8,请问怎么拿到python的输入方式？以及python怎么打开文件？,https://www.nowcoder.com//questionTerminal/5f4695226ce4412a85f4f096cb27ac0e
+9,python是用C语言写成的，根据名字空间特性，以下代码经过python编...,https://www.nowcoder.com//questionTerminal/4035bd0076f945cb924f7195982f56d5
+10,Python如何定义一个函数,https://www.nowcoder.com//questionTerminal/bffd8255023e4788bd16efd58b4ac426
+11,下列哪行python代码有语法错误,https://www.nowcoder.com//questionTerminal/e40dc55362fa4d56b3d3d1b0ef03138f
+12,python方法解析顺序,https://www.nowcoder.com//questionTerminal/4149e9f719454ff3b5224b67e322a3d8
+13,怎么拿到python的输入方式？python怎么打开文件？,https://www.nowcoder.com//questionTerminal/cb1197bb6e8a40bba4d79e22da260582
+14,下面哪个不是Python合法的标识符,https://www.nowcoder.com//questionTerminal/298476e4327b4f458cf98cc9742286bd
+15,下列Python语句正确的是,https://www.nowcoder.com//questionTerminal/b254e167072c4512a1885ebe1f44f4f3
+16,Python不支持的数据类型有,https://www.nowcoder.com//questionTerminal/4e015b0017c74db2b9d68d57313b7bef
+17,请问以下是python解释器的是,https://www.nowcoder.com//questionTerminal/7b1c8358f16748318b8250d012c799d4
+18,关于python2和python3的区别说法不正确的是：,https://www.nowcoder.com//questionTerminal/1930764f68244229a22401cee5ae644a
+19,Python中定义函数时的参数为,https://www.nowcoder.com//questionTerminal/1add8f4428cd4812ac890cefebb394ed
+20,python是用C语言写成的，根据名字空间特性，以下代码经过python编...,https://www.nowcoder.com//questionTerminal/bc569a3b241841bb97ecb499b0044f58
+21,python是用C语言写成的，根据名字空间特性，以下代码经过python编...,https://www.nowcoder.com//questionTerminal/0fb4a513500e4b38b72a505b55c527c0
+22,python是用C语言写成的，根据名字空间特性，以下代码经过python编...,https://www.nowcoder.com//questionTerminal/2f18d396e6d448c38cde87a150c0485f
+23,python是用C语言写成的，根据名字空间特性，以下代码经过python编...,https://www.nowcoder.com//questionTerminal/71f551fc9d55402fa21755d49cd8af23
+24,以下python语句(Python 2.7.13)的执行结果是： impo...,https://www.nowcoder.com//questionTerminal/3f4dfba3d27e411a81696d18c3139e86
+25,Assuming the filename for the code below is /usr/lib/python/person.py    and the program is run as: python /usr/lib/python/per,https://www.nowcoder.com//questionTerminal/358ea09d59824a199910895c85bbb65c
+26,python是用C语言写成的，根据名字空间特性，以下代码经过python编...,https://www.nowcoder.com//questionTerminal/96625f942fbe4507a9d801797d6874e7
+27,python是用C语言写成的，根据名字空间特性，以下代码经过python编...,https://www.nowcoder.com//questionTerminal/d28bc65a3f444c1588521ba44eeed6b4
+28,python方法解析顺序,https://www.nowcoder.com//questionTerminal/d1cafe4f6d6a4276b7c03d8a4219a27f
+29,python是用C语言写成的，根据名字空间特性，以下代码经过python编...,https://www.nowcoder.com//questionTerminal/7fb30abe824b477c9e9449129a99bb4c
+30,Python多进程,https://www.nowcoder.com//questionTerminal/47489640ad0c47e5b545a24f9099d0f7
+31,【单选】假定有一台16核CPU物理机器，利用python语言写了一个多线程...,https://www.nowcoder.com//questionTerminal/c08db6d6ded54ff096e70439326abf81
+32,Python中单下划线_xxx与双下划线__xxx与__xxx__的成员，...,https://www.nowcoder.com//questionTerminal/246efd1774c54b06a2e898c34410d634
+33,如何在Python中实现多线程？,https://www.nowcoder.com//questionTerminal/1c07fbcbb0164702b0f590ce43a1de09
+34,计算出从你生日之日起到今天一共过了多少天？（python、go、shell均可）,https://www.nowcoder.com//questionTerminal/6f6d32c2809b492cacc44bb6ecf24fe4
+35,以下关于 python 内置函数的描述，错误的是（）,https://www.nowcoder.com//questionTerminal/76ae5b78183a4ab3bfa62833dba7dad7
+36,"有如下Python代码段: b1=[1,2,3] b2=[2,3,4] b...",https://www.nowcoder.com//questionTerminal/3702a64cc4ba4a74be6eb2c6b367256f
+37,以下属于 Python 图像处理第三方库的是（）,https://www.nowcoder.com//questionTerminal/3d8eb7201d2742559e6b374289f6a7a8
+38,以下选项中，不是Python 语言保留字的是 （ &amp;nbsp;&amp;nbsp;）,https://www.nowcoder.com//questionTerminal/3813c1fd70e54dbf87523ec506a81547
+39,通过python解析HTML、XML最好选用的模块是（&amp;nbsp; &amp;nb...,https://www.nowcoder.com//questionTerminal/947d34f0b3c74c85b13ddcc50014d76a
+40,关于Python 组合数据类型，以下选项中描述错误的是 ( &amp;nbsp;&amp;...,https://www.nowcoder.com//questionTerminal/840623264b4f4fa4b2f8e28e50ec88a1
+41,下列关于Python的说法不正确的是：______,https://www.nowcoder.com//questionTerminal/a5651d86981a4b9fac195cb9bc18ea2d
+42,在Python 3中，对于字符编码叙述正确的是（）,https://www.nowcoder.com//questionTerminal/7853e315529b43debedbdfc12c714c4e
+43,下列Python语句正确的是（&amp;nbsp;&amp;nbsp;）,https://www.nowcoder.com//questionTerminal/8887c9c90daa4427a2c15b6e6444c3b3
+44,Python不支持的数据类型有：（）,https://www.nowcoder.com//questionTerminal/e4e1b11eaf584655881b31aaf3b33b4f
+45,下列关于python中类方法、类实例方法、静态方法说法正确的是？（）,https://www.nowcoder.com//questionTerminal/7dffdd8f2a544aa6bf95c66501306fc3
+46,下面python代码的执行结果是（&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n...,https://www.nowcoder.com//questionTerminal/850d1a9c85f742d2bc003a04d1b97e0c
+47,Python集合中的元素可以是列表。（）,https://www.nowcoder.com//questionTerminal/9136dc1fa92a4f1fb6ddf9185ddaec1b
+48,在Python3.x中可以使用中文作为变量名。（）,https://www.nowcoder.com//questionTerminal/6740a13240e246a2b19da3755ef2bf92
+49,python中使用异常处理的关键字是,https://www.nowcoder.com//questionTerminal/b840b37be6a843a790d8960cabf96a23
+50,下面哪个是Python中的不变的数据结构？(),https://www.nowcoder.com//questionTerminal/8818154b0e2a4748a8b94cb2ed9ba5ad
+51,在Python中输入以下命令：s=0for&nbsp;k&nbsp;in&...,https://www.nowcoder.com//questionTerminal/81e99e617df94b19bf584ef218734b83
+52,Python 中，如何输出列表中的第二个元素？,https://www.nowcoder.com//questionTerminal/b5a960dfb2494eeca30b9fc9acb19b8f
+53,下面哪个是Python中的不变的数据结构？,https://www.nowcoder.com//questionTerminal/48670e7c8c4d4ff8a1626d5df30ad94a
+54,Python 中，以下哪个函数是用于输出内容到终端的？,https://www.nowcoder.com//questionTerminal/3c8672e3c0ef422682ee2878fc34615f
+55,以下哪个标记是用作 Python 的多行注释？,https://www.nowcoder.com//questionTerminal/7e601f112ac042308dc17fa60d146075
+56,Python 中，以下哪个变量的赋值是正确的？,https://www.nowcoder.com//questionTerminal/e77340b3025345729c454c2a9a348e80
+57,下面哪一个不是 Python 的数据类型？,https://www.nowcoder.com//questionTerminal/2922af9dea304bc0809cb83539287656
+58,以下哪个符号是用作 Python 的注释？,https://www.nowcoder.com//questionTerminal/540e37bc940c49deb3d32db01de551a8
+59,"下列代码输出为： str1 = ""Hello,Python""; str2 ...",https://www.nowcoder.com//questionTerminal/5adde551aa714446a2bd833a4a3dc456
+60,Python 中，以下哪个赋值操作符是错误的？,https://www.nowcoder.com//questionTerminal/d9a78572079346da95ecf9902fd1dea9
+61,"在python中，使用open方法打开文件,语法如下：open(文件名，访...",https://www.nowcoder.com//questionTerminal/5ba163c0f27a42f5a20224e673252a34
+62,"下列代码输出为： str = ""Hello,Python""; suffix...",https://www.nowcoder.com//questionTerminal/5266b82406a640bab8be286212dde5f1
+63,关于Python中的复数，下列说法错误的是（）,https://www.nowcoder.com//questionTerminal/ec4a90bf204f4bf3a1d3c09a90ad598e
+64,假设可以不考虑计算机运行资源（如内存）的限制，以下 python3 代码的...,https://www.nowcoder.com//questionTerminal/c75e984de7f3425eb8a50b294a2311da
+65,Python调用(&nbsp;&nbsp;&nbsp;)函数可实现对文件内...,https://www.nowcoder.com//questionTerminal/3902571c8c9343b7b8c7a1e53d6f0936
+66,下列关于python socket操作叙述正确的是（&nbsp; &nbs...,https://www.nowcoder.com//questionTerminal/092869f41e544c5e9bd74a60aa553b40
+67,下面哪个是Python中的不变的数据结构？&nbsp;,https://www.nowcoder.com//questionTerminal/79a5de490a984140ad6d316344504fa8
+68,关于Python中的复数，下列说法错误的是（）,https://www.nowcoder.com//questionTerminal/abfc8bf9c3824f8bb2edb91bc232de63
+69,下列哪个语句在Python中是非法的？,https://www.nowcoder.com//questionTerminal/850b1021d64a452da6d3b291c806bcb1
+70,"在Python中输入以下命令：numbers=[1,2,3,4,5,6,7...",https://www.nowcoder.com//questionTerminal/3a62b81c40e2470abb91de326d63aa08
+71,Python支持的可变数据类型有哪些？,https://www.nowcoder.com//questionTerminal/62f91e081a1f449e8292bdeb428aa7a2
+72,下面哪个是Python中的不变的数据结构？,https://www.nowcoder.com//questionTerminal/0d8e5fd4db6044f794e2d3151f28f3f4
+73,&nbsp;在Python中，以下哪些写法可以自定义函数,https://www.nowcoder.com//questionTerminal/e13d07d34bbe476faf78141d61dd6371
+74,下列哪种类型是Python的映射类型？ ,https://www.nowcoder.com//questionTerminal/8c8ed797c7ac423d81e9ee09ddb59147
+75,&nbsp;什么是python的生成器?,https://www.nowcoder.com//questionTerminal/126fafa407bf444eb6084fb1c87af8e5
+76,下面的python3函数，如果输入的参数n非常大，函数的返回值会趋近于以下...,https://www.nowcoder.com//questionTerminal/6cc54ea4f3e34b45a09130ecc78a0719
+77,如果Python函数中没有return语句，那么函数将返回,https://www.nowcoder.com//questionTerminal/a6471aa12db640a7b8277927ffec3b02
+78,以下Python数据类型中，不可以通过索引访问的是,https://www.nowcoder.com//questionTerminal/20a17af42ee34d67985f6f76a593fcca
+79,简单说明如何选择正确的Python版本。,https://www.nowcoder.com//questionTerminal/5e2ec14f94bc411fa542dedaa87587f3
+80,下列关于Python的说法正确的是______,https://www.nowcoder.com//questionTerminal/78df7f03e3604b4b81fc11cdc6878cd5
+81,用Python编写一个函数，获得当前目录下的所有文件名（包含子目录中的子文...,https://www.nowcoder.com//questionTerminal/01974dbcdf2a4f68b7ac49d0dfae7416
+82,下列关于python代码说法不正确的是（ ）,https://www.nowcoder.com//questionTerminal/5d06e4132507432c925bc3b8effb3df2
+83,下列关于python基本元素说法错误的是（ ）,https://www.nowcoder.com//questionTerminal/992c03c2df9d45c6bfd758930ca58a99
+84,以下python脚本的运行结果正确的是  &nbsp;&nbsp;&nbs...,https://www.nowcoder.com//questionTerminal/e46f276a83444ce5ac77f226fa359e28
+85,使用任意您熟悉的语言（C/C++、Java、Python或者其他），实现以...,https://www.nowcoder.com//questionTerminal/f209980ccb514f41941944bf6db599de
+86,&nbsp;python中is和==的区别,https://www.nowcoder.com//questionTerminal/c3109097fe464d25b7e0419957b915a0
+87,简述Python装饰器、迭代器、生成器原理及应用场景？,https://www.nowcoder.com//questionTerminal/b5e72f51fffd432c978f165a5013198f
+88,2&nbsp;[问答]为什么说Python采用的是基于值的内存管理模式？,https://www.nowcoder.com//questionTerminal/b38b54a510ec4994b1f49538273ec231
+89,"python my.py v1 v2 形式运行脚本时,通过 from sy...",https://www.nowcoder.com//questionTerminal/784ec10883674aff84bf01295bcf16b9
+90,python&nbsp;dict按照value进行排序,https://www.nowcoder.com//questionTerminal/6ea3556a5080437590521aa1acbd0ebe
+91,请阐述Python与Java编程语言之间的区别,https://www.nowcoder.com//questionTerminal/9129135c753f48feac2b5bf216119850
+92,关于Python中的复数，下列说法错误的是（）,https://www.nowcoder.com//questionTerminal/904f8f2c1d0a4c41a5e7b1f66e008557
+93,什么是python的生成器?,https://www.nowcoder.com//questionTerminal/c282b357621c419092d44567e29a3a9e
+94,"python中dict和list的区别,dict的内部实现",https://www.nowcoder.com//questionTerminal/b9cbacd1bedd43f4bcfd21c77a5e5604
+95,3&nbsp;[问答]在Python中导入模块中的对象有哪几种方式？,https://www.nowcoder.com//questionTerminal/640db3f194b343688285699d1ff4acba
+96,知识点：Python 5/10（单选） What is the outpu...,https://www.nowcoder.com//questionTerminal/aaa95bc836a2473081c14145010a81a7
+97,下面关于Python的语句哪个会无限循环下去：,https://www.nowcoder.com//questionTerminal/e99d2356c196482f9604dbf6b5350f3e
+98,下列哪种不是Python元组的定义方式？ ,https://www.nowcoder.com//questionTerminal/7c61520dcef94bdcab7d129cadc95828
+99,python中is和==的区别,https://www.nowcoder.com//questionTerminal/6776abb119b84343ac6c362dc0674c53
+100,4[问答]&nbsp;&nbsp;在Python程序中，局部变量会隐藏同名...,https://www.nowcoder.com//questionTerminal/d18f597c1b314329bed9b93eee863eca
+101,计算1-200之间有多少个素数，并输出所有素数（JAVA、PYTHON均可）,https://www.nowcoder.com//questionTerminal/c355c25c67a24da8a2ef0d5ddeda8909
+102,"python代码如下:  foo = [1,2] foo1 = foo ...",https://www.nowcoder.com//questionTerminal/057d226a8d1846a6a7d2ec6961515910
+103,下列哪个是python中的不可变类型: (&nbsp; &nbsp; ),https://www.nowcoder.com//questionTerminal/c1708eeed6dd4d13bff8fced0edc4165
+104,有下面一段python代码，&nbsp;  def count():   ...,https://www.nowcoder.com//questionTerminal/e89e1848de694e1b8e8bcd820df58666
+105,"有一段python的编码程序如下：urllib.quote(line.decode(&quot;gbk&quot;).encode(&quot;utf-16&quot;)),请问经过该编码的字符串的解码顺序是？",https://www.nowcoder.com//questionTerminal/2900f95872604f1cbe7baf6b07429e42
+106,关于python变量，下列说法正确的是,https://www.nowcoder.com//questionTerminal/a1e044f1656443d0b66583ba403d998c
+107,Python内建异常类的基类是[$##$]。,https://www.nowcoder.com//questionTerminal/f255517f53f34b94aa9fb28588ee39c1
+108,简述python是如何进行内存管理的。,https://www.nowcoder.com//questionTerminal/d601010c9e6b4c79ba5e8fef389e0b73
+109,关于Python的字符串下列说法错误的是：,https://www.nowcoder.com//questionTerminal/e42e4e6fb68a44bcbe3d4c2c53992767
+110,下列哪个python语句可能会在运行时报错（）,https://www.nowcoder.com//questionTerminal/08aee5d299a645b1acfc3132a3bae5a0
+111,"在python中, 进行下列算式时, 可能为假的是:",https://www.nowcoder.com//questionTerminal/5a5bc6afa1504257af71a8b061a7b53f
+112,python函数中支持*args和**kwargs。 关于二者的区别以下说...,https://www.nowcoder.com//questionTerminal/2a43734328384b2f997755e3dcd13fb3
+113,知识点：Python 10/10（单选） What is the outp...,https://www.nowcoder.com//questionTerminal/de3ec703fb554b9aac30b93e87405dff
+114,知识点：Python 9/10（单选） Which  of the fol...,https://www.nowcoder.com//questionTerminal/74770cf8f6f44042aae6d5614819c7dc
+115,知识点：Python 3/10（单选） What is the outpu...,https://www.nowcoder.com//questionTerminal/630aab6b81044ca39251f59e5113ca99
+116,知识点：Python 2/10 （单选） Which of the fol...,https://www.nowcoder.com//questionTerminal/1fdf2868aba24d2097f40f7a924fa1d6
+117,6&nbsp;[填空]在Python中，字典和集合都是用一对[$##$]作...,https://www.nowcoder.com//questionTerminal/de4d17aac69a43c2ac0ccc4a07d6c0fa
+118,"python代码如下:  foo = [1,2] foo1 = foo1 ...",https://www.nowcoder.com//questionTerminal/adb4f0da002d460eb2c334bb984fc6c9
+119,3&nbsp;[问答]使用pdb模块进行Python程序调试主要有哪几种用法？,https://www.nowcoder.com//questionTerminal/2c3d894b11674758afaa010f48309d6f
+120,what gets printed? Assuming python version 2.x()       print type(1/2),https://www.nowcoder.com//questionTerminal/433bc5bc0c0f4141bd1547348213bb5a
+121,Python中函数是对象，描述正确的是?  ,https://www.nowcoder.com//questionTerminal/321a92533a014458a64519a2b1a81e1e
+122,4&nbsp;&nbsp;[问答]简单解释Python中以下划线开头的变量...,https://www.nowcoder.com//questionTerminal/483b0dbaa19340edb9a9021725dd75eb
+123,"Python 变量中的如下三类变量“_xxx”（单下划线开头）,“ __x...",https://www.nowcoder.com//questionTerminal/05b638950c69487ab6731927c1302786
+124,简单解释Python的字符串驻留机制。,https://www.nowcoder.com//questionTerminal/653cf85ded784dba91eab336f0a0b742
+125,6&nbsp;[填空]Python上下文管理语句是[$##$]。,https://www.nowcoder.com//questionTerminal/e9c5085f013b47a7a90ddd55a8d50988
+126,在Python中导入模块中的对象有哪几种方式？,https://www.nowcoder.com//questionTerminal/a1db9f48cf704657b0c849ceddc9dd89
+127,3&nbsp;[问答]叙述使用Python操作Access数据库的步骤。,https://www.nowcoder.com//questionTerminal/26cd7428acd441338f98385212d4eebf
+128,Python中单下划线_foo与双下划线__foo与__foo__的成员，下列说法正确的是？,https://www.nowcoder.com//questionTerminal/1c4b55a530ee499c986efe82c173b645
+129,4&nbsp;[问答]叙述使用Python操作MS&nbsp;SQL&nb...,https://www.nowcoder.com//questionTerminal/43305ab4dd964fd3b095725a2c697d0e
+130,"python代码如下: a = [i for i in range(1,1...",https://www.nowcoder.com//questionTerminal/01b1dea50a214fbf8708748508233537
+131,1&nbsp;[问答]Python异常处理结构有哪几种形式？,https://www.nowcoder.com//questionTerminal/ebb103cd087f414c96cbc4581b17a576
+132,在python的类的方法定义中，请描述'self'参数的作用？,https://www.nowcoder.com//questionTerminal/99cf752c0db441acae6302c8b8e76126
+133,关于Python内存管理，下列说法错误的是 ,https://www.nowcoder.com//questionTerminal/1d276515aff14326a64961b901fc4514
+134,"Python 变量中的如下三类变量“_xxx”（单下划线开头）,“ __x...",https://www.nowcoder.com//questionTerminal/bbc6396c65f44c2da42a4568eb95dc38
+135,在Python 2.7中，下列哪种是Unicode编码的书写方式?,https://www.nowcoder.com//questionTerminal/7ca8460acab34eebbba43d729cd08b25
+136,【问答题任选2题作答】     &nbsp;请列出使用python实现si...,https://www.nowcoder.com//questionTerminal/c773af88c9bf40e1839061f7f3ea1c30
+137,"在Python 2.7中，执行下列语句后的显示结果是什么?    a = 1 b = 2 * a / 4 a = &quot;none&quot; print a,b",https://www.nowcoder.com//questionTerminal/da2449a33e804d2bbc4801a5e1050c73
+138,"python代码如下:  foo = [1,2] foo1 = foo1 ...",https://www.nowcoder.com//questionTerminal/8bc4512ce9b34ae5a061eeb320f1ba87
+139,"python代码如下:  foo = [1,2] foo1 = foo1 ...",https://www.nowcoder.com//questionTerminal/6bf4080c106c4b9abfbd62c89aed370f
+140,下列属于Python开源项目的是,https://www.nowcoder.com//questionTerminal/7824333eebff4362b5deda698c822c97
+141,"python代码如下:  foo = [1,2] foo1 = foo1 ...",https://www.nowcoder.com//questionTerminal/f7e9385604aa4adbb32f48b4d7f34bcd
+142,python函数func1如下：  def func1(foo):    ...,https://www.nowcoder.com//questionTerminal/04c73dd46e764e1b8025a614590a2a21
+143,关于Python中的复数，下列说法错误的是,https://www.nowcoder.com//questionTerminal/70dc20accdd14645b1864c357b2f076e
+144,"在Python 2.7中，执行下列语句后，显示结果是什么？   from __future__ importdivision print 1//2, 1/2",https://www.nowcoder.com//questionTerminal/3352915dccbd4ce89010f3d24dc03684
+145,Python内建异常类的基类是 () 。,https://www.nowcoder.com//questionTerminal/f2056e5cf0ac4701bd6243a9e21f14a1
+146,"python代码如下:  foo = [1,2] foo1 = foo1 ...",https://www.nowcoder.com//questionTerminal/fb9e05f37e984c5bbb68ea75d7e60182
+147,简单解释Python的字符串驻留机制。,https://www.nowcoder.com//questionTerminal/7fa33d80cb9d44c48d4c50ada92f4d49
+148,"以下python代码输出为  &gt;&gt;&gt; a=[1,2,3]...",https://www.nowcoder.com//questionTerminal/302b620e93da439abad04be4096d108e
+149,简单说明如何选择正确的Python版本。</span> ,https://www.nowcoder.com//questionTerminal/14e8cabfd5e543eb8c3bee8da5ff3aba
+150,python my.py v1 v2 命令运行脚本，通过 from sys import argv如何获得v2的参数值?  ,https://www.nowcoder.com//questionTerminal/ad2751ab22ea4f0ca810f49d572414f6
+151,在Python中，字典和集合都是用一对 () 作为界定符，字典的每个元素有两部分组成，即 () 和 () ，其中 () 不允许重复。,https://www.nowcoder.com//questionTerminal/3243f7b5a2094b68a520a23576d2fb72
+152,是目前比较常用的Python扩展库管理工具<,https://www.nowcoder.com//questionTerminal/78d1c15269db4e57bb5071e97a22d3d8
+153,Python上下文管理语句是 () 。,https://www.nowcoder.com//questionTerminal/23b561e768d94ac4944594150063187e
+154,简述Python进程、线程和协程的区别及应用场景？,https://www.nowcoder.com//questionTerminal/16c34b7e0c6348fe8e5ee74a1e34bbcd
+155,一个数字“5” () （是、不是）合法的Python表达式。,https://www.nowcoder.com//questionTerminal/dadea788933a4b0e86b04f2fadb1410b
+156,Python异常处理结构有哪几种形式？,https://www.nowcoder.com//questionTerminal/2e5e5e48da8742588b596cee37146214
+157,range( )函数在Python 2.x中返回一个 () ，而Python 3.x的range( )函数返回一个 () 。,https://www.nowcoder.com//questionTerminal/fd927a5e3bb14c1e89991e622fa510a0
+158,在Python 2.x中，input( )函数接收到的数据类型由<u>   [$,https://www.nowcoder.com//questionTerminal/0c53a685032f475c9a9cf2b81c0466b2
+159,Python提供了两种基本的循环结构： () 和 () 。,https://www.nowcoder.com//questionTerminal/5a1b61feb517495ba23b3084392a70f3
+160,解释Python脚本程序的“__name__”变量及其作用。,https://www.nowcoder.com//questionTerminal/a4807040357742baabaed67ef7479595
+161,简单解释Python中以下划线开头的变量名特点。,https://www.nowcoder.com//questionTerminal/1dfab3cc24d845a79711b298c7f1929f
+162,在Python程序中，局部变量会隐藏同名的全局变量吗？请编写代码进行验证。,https://www.nowcoder.com//questionTerminal/1d230b4b762c4ca1a99a356ed746ac2b
+163,为什么说Python采用的是基于值的内存管理模式？,https://www.nowcoder.com//questionTerminal/4a4971c6aaae480687c3221dcc1d873a
+164,使用pdb模块进行Python程序调试主要有哪几种用法？,https://www.nowcoder.com//questionTerminal/77100b645bb447c9aca5596d1c30c351
+165,解释 Python 中的运算符 “/” 和 “//” 的区别。,https://www.nowcoder.com//questionTerminal/4c08acaf694b4ec39d5ef926a76490a0
+166,请写一段 sql 或者 python 去获取所有在同一天借了多余一次书的用户（用户 ID 和用户名字）以及当天租借的次数，从最近的 rental_date 排序，如果不会 sql 或者 python ，请详细描述会怎样在 EXCEL 做，以及会用到的公式,https://www.nowcoder.com//questionTerminal/4169983a941f416e958063696f532cef
+167,要求先给出思路，然后写代码，可以使用c/c++/java/python或者伪代码描述。,https://www.nowcoder.com//questionTerminal/028527d9cbae4ec1acf0d3a814eb1c91
+168,请分别列出HTML、JavaScript、CSS、Java、php、python的注释代码形式。,https://www.nowcoder.com//questionTerminal/f39564ff671c49eaa6ba88ceb423bcec
+169,Python 中，for 和 while 可以有 else 语句？,https://www.nowcoder.com//questionTerminal/594035afba4f42b787a3aa5c7aba270e
+170,运行以下python代码输>>>&nbsp;map(lambda&nbsp...,https://www.nowcoder.com//questionTerminal/d3a9622c90f946a88ed3f1e6d7e8dbca
+171,"以下python代码输出为  &gt;&gt;&gt; a=[[1, 2]...",https://www.nowcoder.com//questionTerminal/4ce73adf77b247d8b849f597383378cf
+172,python3中获取用户输入并默认以字符串存储的函数是,https://www.nowcoder.com//questionTerminal/f5cd32ff5eb3484cae259b347b7a7005
+173,以下关于python数据结构说法正确的是,https://www.nowcoder.com//questionTerminal/3f87355991e247d7973de2c93880b9b0
+174,下列不属于Python自动化测试框架的是,https://www.nowcoder.com//questionTerminal/7f87902e09a44a8cbc4a8d5dfe62a26f
+175,知识点：Python 4/10（单选） What is the outpu...,https://www.nowcoder.com//questionTerminal/00a84e23cbc8411691ac5da87a9ded0d
+176,以下关于python数据结构说法正确的是,https://www.nowcoder.com//questionTerminal/14ea90ed3c5b4a10a5ec66d0d767d161
+177,知识点：Python 6/10（单选） What is the outpu...,https://www.nowcoder.com//questionTerminal/774eaffbc53447dd8eb0d15a2c4269ea
+178,知识点：Python 8/10（单选） What gets printed...,https://www.nowcoder.com//questionTerminal/e3744804214c4fa69b1edb09ff22fd1e
+179,以下python命令的输出结果为：zhandouli=16000if&amp;nb...,https://www.nowcoder.com//questionTerminal/99e51fbed1de472e89cb25cbc4587e40
+180,5[问答]&nbsp;在自己的机器上配置IIS以支持Python脚本的运行...,https://www.nowcoder.com//questionTerminal/e6f2fdb13327415ca10fea40da4dc4a7
+181,下列不能用于进行python程序调试的是：,https://www.nowcoder.com//questionTerminal/7cbdd8c3ef9d4b60ac18fef728f97cff
+182,关于Python内存管理，下列说法错误的是：（）,https://www.nowcoder.com//questionTerminal/45cf72e232a2423fa63b23986654bc86
+183,以下python代码输出为  &gt;&gt;&gt; val=[['a'...,https://www.nowcoder.com//questionTerminal/ff08f887162643b7adf5dfbc7531c337
+184,知识点：Python 1/10 （单选） What is answer o...,https://www.nowcoder.com//questionTerminal/67ab9aa0cdd2467da2872d47ac8e886a
+185,在考虑到并行计算的前提下，假设初始账户为10美元，阅读如下python代码...,https://www.nowcoder.com//questionTerminal/77f0930a670f445fa8f45def448531a6
+186,以下两段python&nbsp;代码输出分别为a&nbsp;=&nbsp;...,https://www.nowcoder.com//questionTerminal/8a82355695dd448cbc26ebf24813b1d7
+187,"以下python代码输出为  &gt;&gt;&gt; a = [1, 2...",https://www.nowcoder.com//questionTerminal/30f6cd29b5ca45779d1950d3bc68d2c1
+188,找到（v2.4 之前版本）Python 的 bisect 模块，阅读其中 ...,https://www.nowcoder.com//questionTerminal/6f11c333e81749379bb8724e57cfbb98
+189,Python 中，以下哪个代码是正确的元组？,https://www.nowcoder.com//questionTerminal/b64f28c2513b4a7fb8b68dbe7ef0a7a4
+190,poj 3203 Incremental Python Parsing,https://www.nowcoder.com//questionTerminal/85888610a8734a22954e6abdd1960a79
+191,python读取文件内容并且生成迭代器，一下做法正确的是:,https://www.nowcoder.com//questionTerminal/54d45c11a1d94dfab28e12ebc0710c01
+192,知识点：Python 7/10（单选） What is the outpu...,https://www.nowcoder.com//questionTerminal/10988d5ebf7843bea20c203f88692cda
+193,对于Python类中的私有成员，可以通过&ldquo;对象名._类名__私有成员名&rdquo;的...,https://www.nowcoder.com//questionTerminal/5a781648e58b44eaa2fb0a029d6af192
+194,"Python3.x语句foriinrange(3):print(i,end...",https://www.nowcoder.com//questionTerminal/96b0fde7425d45b4b81596de87e2d6b8
+195,"Python3.x语句print(1,2,3,sep=',')的输出结果为...",https://www.nowcoder.com//questionTerminal/12932cc87bfc4dc0be74185414449f8b
+196,Python内置函数 [$##$]可以返回列表、元组、字典、集合、字符串以...,https://www.nowcoder.com//questionTerminal/0faed6aa335d446b9c651e0bb14ee726
+197,Python中一切内容都可以称为对象。（&amp;nbsp;&amp;nbsp;）,https://www.nowcoder.com//questionTerminal/a71437572911405a80f1507c31d6f807
+198,计算出从你生日之日起到今天一共过了多少天？（python、go、shell均可）,https://www.nowcoder.com//questionTerminal/9c91351484104afa92d453d7c648471f
+199,以下对 Python 程序缩进格式描述错误的选项是（）,https://www.nowcoder.com//questionTerminal/d7e57d5050d444bd94dca513a424e19e
+200,下列哪个语句在Python中是非法的？（）,https://www.nowcoder.com//questionTerminal/765fb0e2bf6d4ce8aec343fedda470cc
+201,python中关于字符串下列说法错误的是（）,https://www.nowcoder.com//questionTerminal/1d441f87d77142aa841fda464ba14ba4
+202,下面代码输出的结果是？  for char in 'PYTHON STRI...,https://www.nowcoder.com//questionTerminal/4c5aa246b2e043fd86617c9b97e5222e
+203,Python字典中的&ldquo;键&rdquo;可以是元组。（）,https://www.nowcoder.com//questionTerminal/5daa8f9db5184bba844b814360b8c4d8
+204,查看变量类型的Python内置函数是[$##$],https://www.nowcoder.com//questionTerminal/299cd9e782364207bff61884d6c8d44f
+205,使用python的matplotlib工具包绘制折线图，所用的函数是,https://www.nowcoder.com//questionTerminal/3efadad6d6a6460d80c9894cc7cc061c
+206,关于Python内存管理，下列说法错误的是（）,https://www.nowcoder.com//questionTerminal/41ff0ac990ba4128a6c08c556be190ab
+207,"python中dict和list的区别,dict的内部实现",https://www.nowcoder.com//questionTerminal/efb3dbe5be8049dc984e05012a026baf
+208,Python 中，以下哪个代码是正确的列表？,https://www.nowcoder.com//questionTerminal/0a7f5d3744874b9e81d30c3a51876c21
+209,以下关于 Python 的描述错误的是？,https://www.nowcoder.com//questionTerminal/e0320ee4d3ad4ca8947919c9b2480f5a
+210,Python 中，以下哪个代码是正确的字典？,https://www.nowcoder.com//questionTerminal/aa84fb3a3a6648f6963e7f9c379c1864
+211,下列关于python&amp;nbsp;socket操作叙述错误的是（）,https://www.nowcoder.com//questionTerminal/50c768f7ab0b4136aa30868947b44af8
+212,以下对 Python 程序缩进格式描述错误的选项是：（）,https://www.nowcoder.com//questionTerminal/67a9d6db67e84aeab6d0a9d33fda5bcc
+213,python中关于字符串下列说法错误的是：（）,https://www.nowcoder.com//questionTerminal/44fae717a6834e1f8ab12c0728fdb75d
+214,python中以下表达式运算结果是： （）   &amp;gt;&amp;gt;&amp;gt; ...,https://www.nowcoder.com//questionTerminal/07c0a1546c6448d2944b080a63bc843b
+215,【单选】假定有一台16核CPU物理机器，利用python语言写了一个多线程...,https://www.nowcoder.com//questionTerminal/5d8111e523164a63b78c5cb52c4a1f68
+216,下列选项中哪些是使用python装饰器的目的（）,https://www.nowcoder.com//questionTerminal/3703f326dcf244c3a1de95f10c455919
+217,Python内建异常类的基类是[$##$],https://www.nowcoder.com//questionTerminal/a7749ce0f9ee4307962a0d1a612e3f98
+218,Python标准库os.path中用来判断指定文件是否存在的方法是[$##$],https://www.nowcoder.com//questionTerminal/9b38054480424f2c957c438c9be952dd
+219,3+4j不是合法的Python表达式。,https://www.nowcoder.com//questionTerminal/b6512fbbb47a4d2b8a42dbebdaacb882
+220,下列哪个语句在Python中是非法的？（）,https://www.nowcoder.com//questionTerminal/f28cfe38a1294399bbafbc99e58ebd46
+221,【单选】假定有一台16核CPU物理机器，利用python语言写了一个多线程...,https://www.nowcoder.com//questionTerminal/f542879d23bf447d807bccec1c13b7b3
+222,Python 中函数不包括(&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;),https://www.nowcoder.com//questionTerminal/7d18e3b088714d458101a83ae6923309
+223,"Python3.x语句print(1,2,3,sep=':')的输出结果为...",https://www.nowcoder.com//questionTerminal/ff73ccca207b49db812b5f488570f39b
+224,python中字典   dic1&nbsp;=&nbsp;{'k1':&n...,https://www.nowcoder.com//questionTerminal/d1e9080d4d6248edbb90747b9a27e400
+225,在Python中输入以下命令：s=0for&amp;nbsp;k&amp;nbsp;in&amp;...,https://www.nowcoder.com//questionTerminal/7b0507a6e4434b94b6789ec396c8e29c
+226,Python不支持的数据类型有（&amp;nbsp;&amp;nbsp;）,https://www.nowcoder.com//questionTerminal/76684d4f6ffe4de9b7c2de85efd76ef0
+227,下列Python程序的运行结果是( )  def P(x): &nbsp;...,https://www.nowcoder.com//questionTerminal/89f9aed0477441eb8b4deba9f091fd83
+228,列表、元组、字符串是Python的[$##$]【有序？无序】序列。,https://www.nowcoder.com//questionTerminal/3cd041f2ffb94400a4785e6d874b7a5f
+229,在Python中，函数参数支持的类型有？（）,https://www.nowcoder.com//questionTerminal/cae605de0cdb41d5824c84bd426557ce
+230,Python解释&ldquo;re&rdquo;模块的 split()， sub()， subn(...,https://www.nowcoder.com//questionTerminal/bdfd7baf05b34d919bc94838cdc301cd
+231,以下关于Python 的控制结构，错误的是(&amp;nbsp;&amp;nbsp;&amp;nb...,https://www.nowcoder.com//questionTerminal/06735436ff5c468aa83abd630fea4ddc
+232,以下选项中不是Python 对文件的写操作方法的是 （ &amp;nbsp;&amp;nb...,https://www.nowcoder.com//questionTerminal/a6265645b70949ff83cf461c3634e24c
+233,关于Python的lambda函数，以下选项中描述错误的是 （ &amp;nbsp...,https://www.nowcoder.com//questionTerminal/397b33d873c646d4ac9ee7f7237de6db
+234,Python标准库os.path中用来判断指定路径是否为文件的方法是[$##$],https://www.nowcoder.com//questionTerminal/52c0937ebb0b4ae295a96f667876e6bc
+235,Python用来访问和操作内置数据库SQLite的标准库是[$##$],https://www.nowcoder.com//questionTerminal/a6125d16687b40e0a6ae33ef903dc4b1
+236,Python不支持的数据类型有（）,https://www.nowcoder.com//questionTerminal/42b3a348005e4450ad18f96cb74cd04b
+237,卡车牌照（两个方向二选一作答，非Python）,https://www.nowcoder.com//questionTerminal/98a2f99aea134ef5aa2be31871671863
+238,卡车牌照（两个方向二选一作答，Python）,https://www.nowcoder.com//questionTerminal/8526badb69b64eb4bc761967ef4bb261
+239,描述： 1.&nbsp;26个小写字母，依次压入队列q 2.&nbsp;遍...,https://www.nowcoder.com//questionTerminal/63a4e9db26d249fb8e484fb74be6b826
+240,编程测试题：请从以下3道题目中任选一道题解答。 JAVA： 编写一个线程安...,https://www.nowcoder.com//questionTerminal/eef3168687554e7cb3ef03015f4c3600
+241,下列程序打印结果为（&nbsp; &nbsp; &nbsp; ） impo...,https://www.nowcoder.com//questionTerminal/c6f8d6c10ccf4b808757e8f65932ad95
+242,时钟,https://www.nowcoder.com//questionTerminal/72f3cc4658024d12bcc122c29b35394e
+243,字符迷阵,https://www.nowcoder.com//questionTerminal/8fb1e165abcb4b709d5a2f0ba759d0a6
+244,下面代码输出结果为？  x = True def printLine(te...,https://www.nowcoder.com//questionTerminal/86b819357a0a4116891955c744e6ef4a
+245,二叉搜索树判定,https://www.nowcoder.com//questionTerminal/e12c53c925754a07b5f5a2a4dd8fa829
+246,ipv4地址白名单,https://www.nowcoder.com//questionTerminal/f0f1015579904ebc92974f7c92764797
+247,有一张图灵奖得主的肖像照片，被一个学生用简单的异或加密方法，编码成了如下这...,https://www.nowcoder.com//questionTerminal/54e92f5d6383463cbffd1a61174c9d13
+248,有一张图灵奖得主的肖像照片，被一个学生用简单的异或加密方法，编码成了如下这...,https://www.nowcoder.com//questionTerminal/e7540399b6bc4433ae4623d9e1ce9de3
+249,比较两个json数据是否相等,https://www.nowcoder.com//questionTerminal/71d5cf0148234e35a8016e84f63ffc1c
+250,有1、2、3、4个数字，能组成多少个互不相同且无重复数字的三位数？并打印出...,https://www.nowcoder.com//questionTerminal/33dbc7d477be4becbe533000b5be6053
+251,下列哪种函式参数定义不合法?  ,https://www.nowcoder.com//questionTerminal/d899caec3dc54e60a9a238546e5b363a
+252,"实现一个卷积层的forward函数，输入map的shape为[w, h, ...",https://www.nowcoder.com//questionTerminal/4f78bfbcd33d410283cba282c33cbd95
+253,"实现一个卷积层的forward函数，输入map的shape为[w, h, ...",https://www.nowcoder.com//questionTerminal/b8507d3fae3840f08105f6b1c0b0c096
+254,2018校招面试题——羽毛球馆   ,https://www.nowcoder.com//questionTerminal/4c3d325a70fd4fb4909e2fe1c42fba71
+255,zoj 1044 Index Generation,https://www.nowcoder.com//questionTerminal/5171432fdf1147e891d70ef0148b8833
+256,在一个无线大平面上，有两组平行线，互相间垂直，每组平行线的间隔都为t，将一根长度为l（l&lt;t）的针任意掷在这个平面上，求此针与所有平行线都不相交的概率。,https://www.nowcoder.com//questionTerminal/ea5da87bbe1b4972a2da235007a1b300
+257,Disjoint-set data structure,https://www.nowcoder.com//questionTerminal/d52f24504bc043b9a6564e57b090392b
+258,CodeForces 225D Snake,https://www.nowcoder.com//questionTerminal/2a684ab9afb649308445721edd936e57
+259,CodeForces 616A Comparing Two Long Integers,https://www.nowcoder.com//questionTerminal/e01bc8a7785a405c9570abe785a628d5
+260,CodeForces 551D GukiZ and Binary Operations,https://www.nowcoder.com//questionTerminal/b2c75c99f77e45dba8f72c7125de732d
+261,CodeForces 482B Interesting Array,https://www.nowcoder.com//questionTerminal/fad48ac7361448ae9a2bcfa532338ef7
+262,"实现一个卷积层的forward函数，输入map的shape为[w, h, ...",https://www.nowcoder.com//questionTerminal/de654c1163e34a559fc7c51ec22d6f3d
+263,CodeForces 483D Interesting Array,https://www.nowcoder.com//questionTerminal/7fdb6de5ece348e9a386c52d6284bb3e
+264,poj 1109 Index Generation,https://www.nowcoder.com//questionTerminal/14826091f2f441758edd0ecc138b52f1
+265,"实现一个卷积层的forward函数，输入map的shape为[w, h, ...",https://www.nowcoder.com//questionTerminal/8a3d03d4417f421bb4acde4d67f4a42c
+266,What is the output of the last "t()" ...,https://www.nowcoder.com//questionTerminal/c69598bb55d74232b93a6feb9b8411b0
+267,运维工程师在工作中经常需要对数量众多的服务器进行批量管控操作，例如使用pu...,https://www.nowcoder.com//questionTerminal/c8d9fb48fbfe44eeac25a766526054ac
+268,Choose the correct options below abou...,https://www.nowcoder.com//questionTerminal/ebf5fae69e464f8188ebe62be6df0f6c
+269,What is expected output for the follo...,https://www.nowcoder.com//questionTerminal/bb8b582744d541e9bd8f02785afee834
+270,How to get the list c as below in Pyt...,https://www.nowcoder.com//questionTerminal/b067f68dcf914df3b5befef4bb6a3114
+271,某Web站点被攻击者入侵，事后安全工程师获取到了该网站Web服务器的访问日...,https://www.nowcoder.com//questionTerminal/c7e1055496944c07af0a5387f4a7d8f3
+272,"以下程序输出为：def&nbsp;test(a,b,*args):&nbs...",https://www.nowcoder.com//questionTerminal/bbf9e5fe180048369153b4cc11549b52
+273,以下程序输出为,https://www.nowcoder.com//questionTerminal/e0f344ff5db14cab84d2cd3e11310234
+274,以下哪个代码是正确的读取一个文件？,https://www.nowcoder.com//questionTerminal/13fde8aa41f64442950a8ae291755e58
+275,"对于以下代码，描述正确的是：list&nbsp;=&nbsp;['1',&...",https://www.nowcoder.com//questionTerminal/a9464f30a3c143b6bc2952eec688178b
+276,以下程序输出为,https://www.nowcoder.com//questionTerminal/1f7704835e42451ea02d3b0ce1650e0c
+277,"以下代码输出为： list1 = {'1':1,'2':2} list2 ...",https://www.nowcoder.com//questionTerminal/63bae45f0fad46c89b977c8256fb4c53
+278,下面程序运行结果为：for&nbsp;i&nbsp;in&nbsp;ran...,https://www.nowcoder.com//questionTerminal/03bb8909e9784c31818d9bfd2646608b
+279,以下程序输出为：def&nbsp;w1():&nbsp;&nbsp;&nb...,https://www.nowcoder.com//questionTerminal/a7a38a5b791042b8bb0e69caf44e17d2
+280,执行下面代码，请问输出结果为（） name = “顺顺” def f1()...,https://www.nowcoder.com//questionTerminal/d81763141f254f5f9c725b0a3538fb46
+281,关于return说法正确的是（&nbsp; &nbsp; &nbsp; ）,https://www.nowcoder.com//questionTerminal/90d37b824d374c8bac58c208113a9ce7
+282,"已知a = [1, 2, 3]和b = [1, 2, 4]，那么id(a[...",https://www.nowcoder.com//questionTerminal/6e50cad3fa5c4660b036bd23eb8ffad6
+283,以下声明错误的是：,https://www.nowcoder.com//questionTerminal/3d6ae88951764d978caa2800104f8b73
+284,当一个嵌套函数在其外部区域引用了一个值时，该嵌套函数就是一个闭包，以下代码...,https://www.nowcoder.com//questionTerminal/d173f0f517de45cb88eff23f8901f2d1
+285,"下面程序的功能是什么?（&nbsp; &nbsp; ） def f(a, ...",https://www.nowcoder.com//questionTerminal/2624ec1dae684eec86b5cce87a9c88aa
+286,如下程序会打印多少个数:（）,https://www.nowcoder.com//questionTerminal/fc496fdbc22d499e99b58f5fc3dc6b25
+287,"如下程序的运行结果为: def func(s, i, j): if i &...",https://www.nowcoder.com//questionTerminal/87bc2a69c5c84eb5ac2ded8f1591572c
+288,已知print_func.py的代码如下：  print('Hello W...,https://www.nowcoder.com//questionTerminal/5bec98abf5ab4628a0c7dbf1bbd64cc9
+289,"下面的程序根据用户输入的三个边长a,b,c来计算三角形面积.请指出程序中的...",https://www.nowcoder.com//questionTerminal/705d4f7fabcb4defb46d28b61ee0f56a
+290,下列程序打印结果为（&nbsp;&nbsp;&nbsp;&nbsp;&nb...,https://www.nowcoder.com//questionTerminal/2d0b75f21be24003927d5892a61e2c9b
+291,当一个嵌套函数在其外部区域引用了一个值时，该嵌套函数就是一个闭包，以下代码...,https://www.nowcoder.com//questionTerminal/993b748dc12542cd8a43bb1ccbc51287
+292,已知print_func.py的代码如下：  print('Hello W...,https://www.nowcoder.com//questionTerminal/31be34553710436787a699294aa7051b
+293,import numpy as np a = np.repeat(np.a...,https://www.nowcoder.com//questionTerminal/aec1e54446714c448c02bd91ce1c8807
+294,for i in range(2): &nbsp; &nbsp; prin...,https://www.nowcoder.com//questionTerminal/fdd6356993da46eeb23b3a4e3d488282
+295,已知print_func.py的代码如下：,https://www.nowcoder.com//questionTerminal/69f9f748b9ad42bdb7a705e61d8a05cb
+296,"下面代码运行后，a、b、c、d四个变量的值，描述错误的是？  import copy a = [1, 2, 3, 4, ['a', 'b']]  b = a  c = copy.copy(a)  d = copy.deepcopy(a)  a.append",https://www.nowcoder.com//questionTerminal/0d4af069d7d3417ba772ed93331f9057
+297,What gets printed?()   print r&quot;\nwoow&quot;,https://www.nowcoder.com//questionTerminal/55cf477c14d044a5a4bea7bf40bdb2ea
+298,"What gets printed?()   kvps = { '1' : 1, '2' : 2 } theCopy = kvps.copy() kvps['1'] = 5 sum = kvps['1'] + theCopy['1']print sum",https://www.nowcoder.com//questionTerminal/e9d3a9560f2f4e7a88a139c8e4db9658
+299,假设有一段英文，其中有单词中间的字母“i”误写为“I...,https://www.nowcoder.com//questionTerminal/debe7eb652e64f5f9990042f61fb9bd8
+300,1&nbsp;[问答]为什么应尽量从列表的尾部进行元素的增加与删除操作？,https://www.nowcoder.com//questionTerminal/6fedaf52c7a54f9d8a76d7d219ac3f3f
+301,What gets printed?（）,https://www.nowcoder.com//questionTerminal/696a2da5ad0642b3b0c17767113388a6
+302,"若 a = (1, 2, 3)，下列哪些操作是合法的? ",https://www.nowcoder.com//questionTerminal/12b2682a72584f72a7ae7b3aab78e10a
+303,2&nbsp;[问答]设计一个窗体，并放置一个按钮，按钮默认文本为“开始”...,https://www.nowcoder.com//questionTerminal/933adc51a09e425fb8b665be159c117d
+304,"What gets printed?()     counter = 1  def doLotsOfStuff():         global counter     for i in (1, 2, 3):           counter +=",https://www.nowcoder.com//questionTerminal/ad38666f8395469095f4ef82d1481739
+305,2&nbsp;[问答]编写程序，运行后用户输入4位整数作为年份，判断其是否...,https://www.nowcoder.com//questionTerminal/9ea93c66303843638a48741f1df59dcd
+306,1&nbsp;[问答]假设有一段英文，其中有单独的字母“I”误写为“i”，...,https://www.nowcoder.com//questionTerminal/addc6c1425ba49e2bf0ed7451a3361f0
+307,下述字符串格式化语法正确的是？ ,https://www.nowcoder.com//questionTerminal/396599e56f8942ba9f74cb7d6b93ccc8
+308,3[问答]&nbsp;有一段英文文本，其中有单词连续重复了2次，编写程序检...,https://www.nowcoder.com//questionTerminal/b862e606ef59443db8785985e5a11565
+309,3[问答]&nbsp;&nbsp;编写函数，接收一个字符串，分别统计大写字...,https://www.nowcoder.com//questionTerminal/6d2e815fa83b49c29e9a0b41177ad4bf
+310,2&nbsp;[问答]编写函数，判断一个整数是否为素数，并编写主程序调用该函数。,https://www.nowcoder.com//questionTerminal/8c0df4c392944eb4b663956c06c23f61
+311,"pytorch中cuda()作用,两个Tensor,一个加了cuda(),...",https://www.nowcoder.com//questionTerminal/965c012b6ac44c9c9b684d9298f41a16
+312,3&nbsp;[问答]编写程序，生成一个包含50个随机整数的列表，然后删除...,https://www.nowcoder.com//questionTerminal/447d4c7086434e6f86e565d1ffc4a032
+313,5&nbsp;[问答]编写函数，可以接收任意多个整数并输出其中的最大值和所...,https://www.nowcoder.com//questionTerminal/a6194b63a302417d8d1eac88bf5d6803
+314,6[问答]&nbsp;编写程序，至少使用2种不同的方法计算100以内所有奇...,https://www.nowcoder.com//questionTerminal/011c52119bb6446e93b4fb125b99791d
+315,5[问答]&nbsp;编写程序，用户输入一段英文，然后输出这段英文中所有长...,https://www.nowcoder.com//questionTerminal/4763ef323dd14fedbbc756fd1482b539
+316,7&nbsp;[填空]假设有列表a&nbsp;=&nbsp;['name'...,https://www.nowcoder.com//questionTerminal/fe846448062f45a29518f663a9ec4195
+317,6[问答]&nbsp;编写程序，用户输入一个目录和一个文件名，搜索该目录及...,https://www.nowcoder.com//questionTerminal/b402a998210f4e039dff37089bc74b9c
+318,编写程序，用户从键盘输入小于1000的整数，对其进行因式分解。例如，10=...,https://www.nowcoder.com//questionTerminal/ad1732e9a9fb4bec8a0fc1dd71fa1107
+319,1&nbsp;[问答]假设有一个英文文本文件，编写程序读取其内容，并将其中...,https://www.nowcoder.com//questionTerminal/d20bced26871448ba2915f50ad011f35
+320,__new__和__init__的区别，说法正确的是？ ,https://www.nowcoder.com//questionTerminal/ab4b9c7553c3491ca84c0a62989260c0
+321,1[问答]&nbsp;设计一个窗体，并放置一个按钮，单击按钮后弹出颜色对话...,https://www.nowcoder.com//questionTerminal/95e9e2f515894f98917e556cda0be3ec
+322,3&nbsp;[问答]使用shutil模块中的move()方法进行文件移动。,https://www.nowcoder.com//questionTerminal/2599026c4e7f44739098b29d8f50f204
+323,3&nbsp;[问答]设计一个窗体，模拟QQ登录界面，当用户输入号码123...,https://www.nowcoder.com//questionTerminal/ca0b323d375b4395a506ce0b069e4129
+324,5&nbsp;[问答]编写程序，用户输入一个三位以上的整数，输出其百位以上...,https://www.nowcoder.com//questionTerminal/7205d173a65c47359cdd4fb011827e0f
+325,1&nbsp;[问答]分析逻辑运算符“or”的短路求值特性。,https://www.nowcoder.com//questionTerminal/59a019507d834e5dac9da9ed8d367f5d
+326,以上程序要求用户输入二进制数字0/1并显示之，请指出程序中代码第几行存在错误：（）,https://www.nowcoder.com//questionTerminal/7e126eb290a743b1a28034fbce8cd952
+327,7&nbsp;[问答]编写函数，模拟内置函数sorted()。,https://www.nowcoder.com//questionTerminal/ab08408a404d459b8b03f717869aa197
+328,下列代码运行结果是？   a = 'a' print a &gt; 'b' or 'c',https://www.nowcoder.com//questionTerminal/f70cb8bb74e64e08b52611f44e89321b
+329,编写程序，生成包含1000个0到100之间的随机整数...,https://www.nowcoder.com//questionTerminal/9ea5e95fd624424fa1228e33aac2ea8d
+330,编写程序，用户输入一个列表和2个整数作为下标，然后输...,https://www.nowcoder.com//questionTerminal/90ba896a7b384ba3858c471ab65a1b4b
+331,10&nbsp;[填空][$##$]（可以、不可以）使用del命令来删除元...,https://www.nowcoder.com//questionTerminal/cabc9b785182492db391dc915c05c2f4
+332,有如下类定义，下列描述错误的是？  class A(object):     pass   class B(A):     pass   b = B(),https://www.nowcoder.com//questionTerminal/2294726301554b1da45dbe5fb87cc9cc
+333,9&nbsp;&nbsp;[填空]使用列表推导式生成包含10个数字5的列表...,https://www.nowcoder.com//questionTerminal/50ae9117cb054357b0590ebd57e032a2
+334,5&nbsp;[问答]编写代码，将当前工作目录修改为“c:\”，并验证，最...,https://www.nowcoder.com//questionTerminal/4c3e87cb083c43b9915f42f0498662cc
+335,8&nbsp;[填空]假设有一个列表a，现要求从列表a中每3个元素取1个，...,https://www.nowcoder.com//questionTerminal/93940ee634ac48a0a3ef49012beef300
+336,若 a = range(100)，以下哪些操作是合法的?  ,https://www.nowcoder.com//questionTerminal/186a7fc444b54ece8f50de242797c7fd
+337,手写二分查找,https://www.nowcoder.com//questionTerminal/849382366c70486493a7dedb2ba80dda
+338,4[问答]&nbsp;编写程序，生成一个包含20个随机整数的列表，然后对其...,https://www.nowcoder.com//questionTerminal/5d8ef031545b4f8aa1343808a131b734
+339,2[问答]&nbsp;编写程序，将包含学生成绩的字典保存为二进制文件，然后...,https://www.nowcoder.com//questionTerminal/d1454b43fec548bdb489ccfd03a29708
+340,从运行层面上来看，从四个选项选出不同的一个。,https://www.nowcoder.com//questionTerminal/88e0839f588f44e89bda4a67747bcc1f
+341,4&nbsp;[问答]设计一个字典，并编写程序，用户输入内容作为键，然后输...,https://www.nowcoder.com//questionTerminal/c7661c8cec6a4bb7b3bdfee1e9060e45
+342,4&nbsp;[问答]解释至少3种线程同步方法。,https://www.nowcoder.com//questionTerminal/227344e982d340b8820387a01bc87454
+343,2&nbsp;[问答]简单叙述Thread对象的方法。,https://www.nowcoder.com//questionTerminal/bc8df82b16944ee4b82ee565f0ec23e5
+344,4&nbsp;[问答]使用pip命令安装numpy、scipy模块。,https://www.nowcoder.com//questionTerminal/c1c3312c750046bb9d4db8a9123d2235
+345,a与b定义如下，下列哪个是正确的？  a = '123' b = '123',https://www.nowcoder.com//questionTerminal/9b9c134008f740f8a2ad495ddf536415
+346,6&nbsp;[问答]编写函数，模拟内置函数sum()。,https://www.nowcoder.com//questionTerminal/a02b40d763a547cfa4ada16b9e9bb455
+347,下列语句的执行结果是什么？ a = 1 for i in range(5):     if i == 2:         break     a += 1 else:     a += 1 print a,https://www.nowcoder.com//questionTerminal/bb3b9aebd0134028aa5d9cad7c407b6f
+348,"Ctrl+C程序挂掉还是抛出异常,如何判断两个dict是否一样,list头...",https://www.nowcoder.com//questionTerminal/173ee72016a342bfa065785d531632f4
+349,3&nbsp;[问答]简单叙述线程对象的daemon属性的作用和影响。,https://www.nowcoder.com//questionTerminal/7acd0a5fc3df43d3acf25606486d6ca3
+350,4&nbsp;[问答]简单解释文本文件与二进制文件的区别。,https://www.nowcoder.com//questionTerminal/8942254b25ba4acdb6ec9ac81a7b2843
+351,2[问答]&nbsp;异常和错误有什么区别？,https://www.nowcoder.com//questionTerminal/331266516e9f413c89e9649c16db0538
+352,解释型语言的特性有什么？,https://www.nowcoder.com//questionTerminal/a88481e228c447958e1421136674f58e
+353,"下列代码运行结果是？  a = map(lambda x: x**3, [1, 2, 3]) list(a)",https://www.nowcoder.com//questionTerminal/adde405dee2a4436932f050c8fbdac07
+354,下列表达式的值为True的是,https://www.nowcoder.com//questionTerminal/b7eadfedd1e244a9be59f7afc1dc383f
+355,2&nbsp;[问答]同学之间合作编写UDP通信程序，分别编写发送端和接收...,https://www.nowcoder.com//questionTerminal/f847d047eac74e32bbd199ff55813b97
+356,5&nbsp;&nbsp;[填空]与运算符“**”对应的特殊方法名为&nb...,https://www.nowcoder.com//questionTerminal/9f86c87de82348b796bfb597404ec7b4
+357,编写程序，运行后用户输入4位整数作为年份，判断其是否为闰年。如果年份能被400整除，则为闰年；如果年份能被4整除但不能被100整除也为闰年。,https://www.nowcoder.com//questionTerminal/5015662bdb6a4348a919469d250aa402
+358,3&nbsp;[填空]面向对象程序设计的三要素分别为[$##$]、[$##...,https://www.nowcoder.com//questionTerminal/7489e6ffc1c24b9b8ec3c2ad719c1d07
+359,1&nbsp;[问答]编程程序，在窗口上绘制一个三角形，设置三个顶点为不同...,https://www.nowcoder.com//questionTerminal/0e87784982db482889606d726a93d1f2
+360,4&nbsp;[问答]编写代码读取搜狐网页首页内容。,https://www.nowcoder.com//questionTerminal/14caaa8a288848ad957362e265e1e316
+361,1&nbsp;[问答]简单介绍SQLite数据库。,https://www.nowcoder.com//questionTerminal/91a9a0a75013423788e1acd8a25c7490
+362,5&nbsp;[填空]断言语句的语法为[$##$]。,https://www.nowcoder.com//questionTerminal/6e77213498064a2da55ebff2d76bd8ff
+363,1&nbsp;[问答]简单介绍常见的大数据处理框架。,https://www.nowcoder.com//questionTerminal/701222d9d47f4878aa81cf65dabe4fab
+364,执行下列语句后的显示结果是什么（）,https://www.nowcoder.com//questionTerminal/c779e1493b774043a3c2fc453e7d7512
+365,下面代码运行结果？  a = 1 try:     a += 1 except:     a += 1 else:     a += 1 finally:     a += 1 print a,https://www.nowcoder.com//questionTerminal/df7aeae7d8b84e53b790fa7e4f02eb52
+366,3&nbsp;[问答]编写代码，使用至少3中不同的方法启动Windows自...,https://www.nowcoder.com//questionTerminal/3234229ee0a14c02bc25605deb8de4ef
+367,1&nbsp;[问答]简单叙述创建线程的方法。,https://www.nowcoder.com//questionTerminal/6086ff79936d45c5b509a0076999225a
+368,5&nbsp;[问答]叙述软件调试断点的概念、作用及其分类。,https://www.nowcoder.com//questionTerminal/7a8e136350364be79da3d6e14c2477fa
+369,4&nbsp;[问答]结合GUI编程知识，编写一个程序，创建一个窗口并在上...,https://www.nowcoder.com//questionTerminal/4a30bc0b895543f587b92e4bb2b56f08
+370,下列代码的运行结果是多少？  def bar(n):     m = n     while True:         m += 1         yield m   b = bar(3) print b.next(),https://www.nowcoder.com//questionTerminal/eabc8a6cd4704184886eacc912a78818
+371,求数列的和,https://www.nowcoder.com//questionTerminal/ba26f2cabb274deeae531147dd5e6967
+372,1&nbsp;[问答]简单解释TCP和UDP协议的区别。,https://www.nowcoder.com//questionTerminal/72637eeef4e9465b8d343682701109c7
+373,"What gets printed?()    numbers = [1, 2, 3, 4] numbers.append([5,6,7,8]) print len(numbers)",https://www.nowcoder.com//questionTerminal/ea445ab6f95b46278b8876ff07b8cb07
+374,3&nbsp;[问答]编写程序，读取一幅图像的内容，将其按象限分为4等份，...,https://www.nowcoder.com//questionTerminal/965999241c22439fbada6d7b24d1a2c7
+375,"Which numbers are printed?()     for i in  range(2):     print i for i in range(4,6):     print i",https://www.nowcoder.com//questionTerminal/145a03cd43fc4068936e4acdd6d21bda
+376,2&nbsp;[问答]编写程序，读取两幅大小一样的图片，然后将两幅图像的内...,https://www.nowcoder.com//questionTerminal/835dbde65a9046a0b9e3c3dee0df6828
+377,5&nbsp;[问答]叙述MySQLDb模块提供的数据库访问方法。,https://www.nowcoder.com//questionTerminal/ea97cd8ee7e44910b6878136b9514b53
+378,"设计一函数，求整数区间[a,b]和[c,d]的交集。",https://www.nowcoder.com//questionTerminal/749645bd45924c29b801bd1a8d2cf955
+379,"有如下函数定义，执行结果正确的是？  def dec(f):     n = 3     def wrapper(*args,**kw):         return f(*args,**kw) * n     return wrapper   @dec",https://www.nowcoder.com//questionTerminal/41dfa1055aca4362960a92001fa34b68
+380,"下列语句执行结果是什么?   a = [1, 2, 3] print a*3",https://www.nowcoder.com//questionTerminal/93a2added69a4981ab7ee3ff447e13d9
+381,编写一个函数，要求输入年月日时分秒，输出该年月日时分秒的下一秒。如输入2004年12月31日23时59分59秒，则输出2005年1月1日0时0分0秒。,https://www.nowcoder.com//questionTerminal/44e15492665344fd9200f1e42cf6769a
+382,() （可以、不可以）使用del命令来删除元组中的部分元素。,https://www.nowcoder.com//questionTerminal/3491d636e34d433d82b31433d2d4d725
+383,分别编写求两个整数的最大公约数的函数hcf和求最小公倍数,https://www.nowcoder.com//questionTerminal/175399ed945340c0a57f484710dc30a1
+384,下列代码执行结果是什么?    x = 1 def change(a):     x += 1     print x change(x),https://www.nowcoder.com//questionTerminal/b42b09973a2f4842b9c56d711d8f986d
+385,设计一个字典，并编写程序，用户输入内容作为“键”，然后输出字典中对应的“值”，如果用户输入的“键”不存在，则输出“您输入的键不存在！”,https://www.nowcoder.com//questionTerminal/c6e9f3eded174b36aacb635d160c39c0
+386,编写程序，用户从键盘输入小于1000的整数，对其进行因式分解。例如，10=2×5，60=2×2×3×5。,https://www.nowcoder.com//questionTerminal/7f029ee51a164f799ecb31c00345914e
+387,假设a为类A的对象且包含一个私有数据成员“__value”，那么在类的外部通过对象a直接将其私有数据成员“__value”的值设置为3的语句可以写作   ()   。,https://www.nowcoder.com//questionTerminal/ab48354421314e679f7bd4db1dc6d093
+388,下列代码的运行结果是？  print 'a' &lt; 'b' &lt; 'c',https://www.nowcoder.com//questionTerminal/3189c78fb65444e6b87f3c581ae56662
+389,写一判素数的函数，在主函数中输入一个整数，调用该函数进行,https://www.nowcoder.com//questionTerminal/4e6bb6e673a94778b4437156be5f021b
+390,编写程序，输出所有由1、2、3、4这四个数字组成的素数，并且在每个素数中每个数字只使用一次。,https://www.nowcoder.com//questionTerminal/4da4425f653b4a3aa13c028a6aa30782
+391,假设有一个列表a，现要求从列表a中每3个元素取1个，并且将取到的元素组成新的列表b，可以使用语句 () 。,https://www.nowcoder.com//questionTerminal/6f57886a13af4a9bb7a22a8382145e4a
+392,在函数内部可以通过关键字 () 来定义全局变量。,https://www.nowcoder.com//questionTerminal/58db918cc90e4d188a5d91e6ffaf5270
+393,编写程序，生成一个包含20个随机整数的列表，然后对其中偶数下标的元素进行降序排列，奇数下标的元素不变。（提示：使用切片。）,https://www.nowcoder.com//questionTerminal/bf6def9a553c4c199e4bd57cbcf4a120
+394,使用字典对象的 () 方法可以返回字典的“键-值对”列表，使用字典对象的 () 方法可以返回字典的“键”列表，使用字典对象的 () 方法可以返回字典的“值”列表。,https://www.nowcoder.com//questionTerminal/59137277fbd040abbf683ca3e8631d0d
+395,编写程序，生成包含1000个0到100之间的随机整数，并统计每个元素的出现次数。,https://www.nowcoder.com//questionTerminal/226d5e32dfb34b5083457918306885ec
+396,"假设列表对象 aList的值为[3, 4, 5, 6, 7, 9, 11, 13, 15, 17]，那么切片 aList[3:7]得到的值是 () 。",https://www.nowcoder.com//questionTerminal/b9fc5905a5a942bc942b7104b0772d09
+397,以下不能创建一个字典的语句是,https://www.nowcoder.com//questionTerminal/8afc497b21d54b87b3e365eff4c4f3d2
+398,编写程序，生成一个包含50个随机整数的列表，然后删除其中所有奇数。（提示：从后向前删。）,https://www.nowcoder.com//questionTerminal/23a7e6579fec46f98ef042bfb0467d16
+399,使用列表推导式生成包含10个数字5的列表，语句可以写为 () 。,https://www.nowcoder.com//questionTerminal/4af358f418e44b7c83e4533fd8d38a9e
+400,关于字符串下列说法错误的是,https://www.nowcoder.com//questionTerminal/0835104debf44e6db801e0367fecf635
+401,DAU 统计,https://www.nowcoder.com//questionTerminal/fb1acf077dbe45f8a90080d92a5ab967
+402,【编程题】    方块消除游戏        题目描述：如下图，有10*10个不同颜色的方块，每个方块可能是红、绿、蓝、黄、紫5种颜色之一。当点击其中某一个方块时，如果它有相邻的同颜色方块，则将所有与此方块连续同颜色相邻的方块消除；剩下的方块中，如果下,https://www.nowcoder.com//questionTerminal/b307d9a11e734b399198fd082b357e19
+403,"假设有列表a = ['name', 'age', 'sex']和b = ['Dong', 38, 'Male']，请使用一个语句将这两个列表的内容转换为字典，并且以列表a中的元素为“键”，以列表b中的元素为“值”，这个语句可以写为 () 。",https://www.nowcoder.com//questionTerminal/9979d14b39154684851714a52ad15fcb
+404,主程序中已有一个排好序的列表，请编写函数insertLi,https://www.nowcoder.com//questionTerminal/77eeb460633d4c3fa26322c575c4c712
+405,与运算符“**”对应的特殊方法名为   ()   ，与运算符“//”对应的特殊方法名为   ()  。,https://www.nowcoder.com//questionTerminal/27527c91bcb24532a4c6bc85fba5b2f5
+406,任务执行策略,https://www.nowcoder.com//questionTerminal/c4cce968a1174b01b5eb5ce2439cd828
+407,编写程序，生成包含20个随机数的列表，然后将前10个元素升序排列，后10个元素降序排列，并输出结果。,https://www.nowcoder.com//questionTerminal/d0f8a48ae7e84d8aaa0bd3902e803a66
+408,以下是两数相加的程序：,https://www.nowcoder.com//questionTerminal/1377b5a324894b159d420a2a2e56bb67
+409,当前目录下有一个文件名为score2.txt的文本文件，,https://www.nowcoder.com//questionTerminal/3a8631248e1542849968205b2fdef6b4
+410,【编程】写入一个方法，输入一个文件名和一个字符串，统计这个字符串在这个文件中出现的次数。</span> </p>,https://www.nowcoder.com//questionTerminal/7c76ec8240d8443aa39e1f6a4b1cb9c8
+411,断言语句的语法为 () 。,https://www.nowcoder.com//questionTerminal/7545e77abb41476d9ad7268aacc1baed
+412,geohash 编码,https://www.nowcoder.com//questionTerminal/70520dc1f76341e5a7fe7b1c3c73ae34
+413,"游戏里面有很多各种各样的任务，其中有一种任务玩家只能做一次，这类任务一共有1024个，任务ID范围[1,1024].请用32个unsigned int类型来记录着1024个任务是否已经完成。初始状态为未完成。",https://www.nowcoder.com//questionTerminal/051cecef380c4430ae2ee6831361b6fe
+414,两数组找相同的元素,https://www.nowcoder.com//questionTerminal/6705b8e8bc634ad3b5a8036a5a33d616
+415,列表对象的 () 方法删除首次出现的指定元素，如果列表中不存在要删除的元素，则抛出异常。,https://www.nowcoder.com//questionTerminal/6ffc7cdd3d7149bdacc7ab1d7507aa06
+416,已知一个0到99999999之间的正整数，找到一个指定数字在该正整数中出现的次数。,https://www.nowcoder.com//questionTerminal/3da6013eb0b64ab7bb11a6b5f069b172
+417,编写函数，模拟内置函数sorted()。,https://www.nowcoder.com//questionTerminal/42e8431fd57844f385d1db23b9fc9a3b
+418,假设有一段英文，其中有单独的字母“I”误写为“i”，请编写程序进行纠正。,https://www.nowcoder.com//questionTerminal/931fa0aed84a44d38d7ea792fdfdc12b
+419,有一段英文文本，其中有单词连续重复了2次，编写程序检查重复的单词并只保留一个。例如文本内容为“This is is a desk.”，程序输出为“This is a desk.”,https://www.nowcoder.com//questionTerminal/1da89a55bada4a41affba639ae7d9003
+420,编写程序 ， 至少使用 2 种不同的方法计算 100 以内所有奇数的和。,https://www.nowcoder.com//questionTerminal/031133eeb12d45c482ea9027086b6755
+421,如何解释下面的执行结果?    print 1.2 - 1.0 == 0.2 False,https://www.nowcoder.com//questionTerminal/d110d1db857e418084b21e37f941c187
+422,编程输出以下格式的数据。    when i=1:          1      4   5   2       3        when i=2:         1   2     8   9  10   3      7  12  11  ,https://www.nowcoder.com//questionTerminal/205b62c2618546d6a52f23552b2699f6
+423,编写函数，接收一个字符串，分别统计大写字母、小写字母、数字、其他字符的个数，并以元组的形式返回结果。,https://www.nowcoder.com//questionTerminal/42e73e78bf334186bcf784e9cf7eb60e
+424,列表对象的sort( )方法用来对列表元素进行原地排序，该函数返回值为 () 。,https://www.nowcoder.com//questionTerminal/2e79ee99057a4b7d95e19d38f47a4fe4
+425,lambda表达式只能用来创建匿名函数，不能为这样的函数起名字。（对、错 ）(),https://www.nowcoder.com//questionTerminal/4ff016a8d09949dfba651b6946fbc2f1
+426,假设有一个英文文本文件，编写程序读取其内容，并将其中的大写字母变为小写字母，小写字母变为大写字母。,https://www.nowcoder.com//questionTerminal/c5ff6be6382147d6bd518eb79ff21a67
+427,使用shutil模块中的move()方法进行文件移动。,https://www.nowcoder.com//questionTerminal/2df635c8877a4689aa002533f05ff81d
+428,编写代码，将当前工作目录修改为“C:\”，并验证，最后将当前工作目录恢复为原来的目录。,https://www.nowcoder.com//questionTerminal/2ebd3874ec6d47f79f396d058b78f7db
+429,编写程序，用户输入一个目录和一个文件名，搜索该目录及其子目录中是否存在该文件。,https://www.nowcoder.com//questionTerminal/d113abe1ca31429da37803b3e2439c02
+430,编写函数，可以接收任意多个整数并输出其中的最大值和所有整数之和。,https://www.nowcoder.com//questionTerminal/52614b5a1caa406f8b24dc1a07327112
+431,编写函数，判断一个整数是否为素数，并编写主程序调用该函数。,https://www.nowcoder.com//questionTerminal/591cff1d6a8b4fc08fd2ec06fce8ca98
+432,编写程序，将包含学生成绩的字典保存为二进制文件，然后再读取内容并显示。,https://www.nowcoder.com//questionTerminal/3f03fb40f4d3458f9ab1eeb7651d6cfb
+433,编写函数 ， 模拟内置函数 sum() 。,https://www.nowcoder.com//questionTerminal/aa6b417704694d4bb91258ca72a14382
+434,"编写程序，用户输入一个列表和2个整数作为下标，然后输出列表中介于2个下标之间的元素组成的子列表。例如用户输入[1, 2, 3, 4, 5, 6]和2,5，程序输出[3, 4, 5, 6]。",https://www.nowcoder.com//questionTerminal/781e3b77808f4cbb9fb71dac512bf98b
+435,编程输出以下格式的数据。,https://www.nowcoder.com//questionTerminal/8cec903fc6414c5f85ff9159fae008e3
+436,根据Unix时间戳计算时间，不分大小月，每月30天，每年按360天计算。,https://www.nowcoder.com//questionTerminal/95b85f80af7b45b4988bdb0c3298dd37
+437,判断101-200之间有多少个素数，并输出所有素数。,https://www.nowcoder.com//questionTerminal/2b0592ff1ec74d7184ef222cd6dc0deb
+438,计算最大获益时机        【题目描述】    假设你能重返过去，现在让你回到2015年，你能选择一支股票进行投资，你拥有这支股票未来n天的价格走势图，为了躲避证监会的监控，你只有一次买入卖出机会。现在要求实现一个程序计算哪天买入哪天卖出能获得最大,https://www.nowcoder.com//questionTerminal/0e99573ee08649a0afa94922c80f1bd9
+439,【编程】完成rejetRepeatedChars函数，从给定的字符串中剔除连续字符，只保留一个，比如aaabbbcdc，处理完之后返回abcdc。,https://www.nowcoder.com//questionTerminal/1d566e8dd78440a2b6941019adcb6cd5
+440,请问第 n个喝这个饮料的人是谁？,https://www.nowcoder.com//questionTerminal/b33f0fda5d97474498957d2757eff391
+441,包含 () 语句的函数可以用来创建生成器。,https://www.nowcoder.com//questionTerminal/ef2e3f52a12e47409315aff90fd24f04
+442,"表达式“[3] in [1, 2, 3, 4]”的值为 () 。",https://www.nowcoder.com//questionTerminal/e2a7987f1f0146fb8a11d96a094ff278
+443,编程实现将一个N进制数转换成M进制数。,https://www.nowcoder.com//questionTerminal/dbcc46f0d4804e658c9382341b75dbc5
+444,文件对象的 () 方法用来把缓冲区的内容写入文件，但不关闭文件。,https://www.nowcoder.com//questionTerminal/f9ba4e2104ce437a985e448726e9b1f9
+445,如果函数中没有return语句或者return语句不带任何返回值，那么该函数的返回值为 () 。,https://www.nowcoder.com//questionTerminal/2a1dac1185634723b6498e8962c1d7b9
+446,os模块的 () 方法用来返回包含指定文件夹中所有文件和子文件夹的列表。,https://www.nowcoder.com//questionTerminal/5e824d46eef04a0aa6d1462b12f9f2cf
+447,os.path模块中的 () 方法用来测试指定的路径是否为文件。,https://www.nowcoder.com//questionTerminal/212e3e1cb8934dfba2688f83c27881ba
+448,调用带有默认值参数的函数时，不能为默认值参数传递任何值，必须使用函数定义时设置的默认值。（对、错 ）(),https://www.nowcoder.com//questionTerminal/bb967b30814f437f891443ee56e6c667
+449,小萌的副本生涯        【题目描述】    在主城站街很久之后，小萌决定不能就这样的浪费时间虚度青春，他打算去打副本。    这次的副本只有一个BOSS，而且BOSS是不需要击杀的，只需要和它比智力…….    BOSS会列出一正整数的序列，由小,https://www.nowcoder.com//questionTerminal/60bed226b2364b628c98ffe24ca4aa09
+450,【编程】短最优升级路径        题目描述：游戏网站提供若干升级补丁，每个补丁大小不一，玩家要升级到最新版，如何选择下载哪些补丁下载量最小。    输入：    第一行输入                第一个数为用户版本 第二个数为最新版本，空格,https://www.nowcoder.com//questionTerminal/a7052c5bd8634edb9ccee711a5c1ea54
+451,面向对象程序设计的三要素分别为 () 、 () 和 () 。,https://www.nowcoder.com//questionTerminal/1c75897d3f514c0c9ab2db5dd64d0684
+452,运算符“%” () （可以、不可以）对浮点数进行求余数操作。,https://www.nowcoder.com//questionTerminal/04e8bcf63ae4469c9a4ff4d3387683d9
+453,数列,https://www.nowcoder.com//questionTerminal/9fb2db22cd944880a4e3d3ca3c4fd0b3
+454,给定一个整数n，以下列方式打印n行。,https://www.nowcoder.com//questionTerminal/4af42d98ccf74ee584184f55cc350d14
+455,设计一个三维向量类，并实现向量的加法、减法以及向量与标量的乘法和除法运算。,https://www.nowcoder.com//questionTerminal/01300c82e3d848c08f3c2e6ff33f2a99
+456,假设有一段英文，其中有单词中间的字母“i”误写为“I”，请编写程序进行纠正。,https://www.nowcoder.com//questionTerminal/b238fcddecf14fda876e041292c229c9
+457,编写程序，用户输入一段英文，然后输出这段英文中所有长度为3个字母的单词。,https://www.nowcoder.com//questionTerminal/a1f157bf578c4d24aba9298413525101
+458,设计一个窗体，模拟QQ登录界面，当用户输入号码123456和密码654321时提示正确，否则提示错误。,https://www.nowcoder.com//questionTerminal/950fb8722ce148288d0589ec03398b1a
+459,设计一个窗体，并放置一个按钮，按钮默认文本为“开始”，单击按钮后文本变为“结束”，再次单击后变为“开始”，循环切换。,https://www.nowcoder.com//questionTerminal/d8d3ad10eed648d097292ede913fe7cc
+460,编写程序，实现分段函数计算，如下表所示。,https://www.nowcoder.com//questionTerminal/e6a1dd25b5e84fd79a34dca052759006
+461,设计一个窗体，并放置一个按钮，单击按钮后弹出颜色对话框，关闭颜色对话框后提示选中的颜色。,https://www.nowcoder.com//questionTerminal/2df963564dea4a5abbc68f2654c6f0e7
+462,简单解释文本文件与二进制文件的区别。,https://www.nowcoder.com//questionTerminal/6e2a7411830d44b19b3dd1de7e7302db
+463,编写程序，用户输入一个三位以上的整数，输出其百位以上的数字。例如用户输入1234，则程序输出12。（提示：使用整除运算。）,https://www.nowcoder.com//questionTerminal/de37341ce3a04dc798f7fa51a39b7add
+464,异常和错误有什么区别？,https://www.nowcoder.com//questionTerminal/283a168ce902477bb97c0af0c977f98b
+465,为什么应尽量从列表的尾部进行元素的增加与删除操作？,https://www.nowcoder.com//questionTerminal/3c782fc8c54e4ef4a08a7f90c9e62fab
+466,分析逻辑运算符“or”的短路求值特性。,https://www.nowcoder.com//questionTerminal/53ed55c22dd542638f96591036bc2533
+467,当前目录下有一个文件名为class_score.txt的,https://www.nowcoder.com//questionTerminal/ad0a89bd67c3483a931852242a904283
+468,从键盘接收若干个整数（直接输入回车表示结束），用冒泡法或,https://www.nowcoder.com//questionTerminal/c9f4f8cc73bc4e8d92995a8103e93136
+469,小王希望用电脑记录他每天掌握的英文单词。请设计程序和相应,https://www.nowcoder.com//questionTerminal/1ab10485f94a45038815592ccd5e6e5c
+470,编程，统计列表中各数据的方差和标准差。主函数已给出，请编,https://www.nowcoder.com//questionTerminal/d6098d44bb7449bf80e4373e307db468
+471,从键盘接收一个正整数n，输出对应斐波那契（</span>,https://www.nowcoder.com//questionTerminal/7b196fae16394bd8ada3aae50048182d
+472,当前目录下有一个文件名为score3.txt的文本文件，,https://www.nowcoder.com//questionTerminal/24e67fa925644c458f354b33bc14074c
+473,输入一行字符，分别统计出其中英文字母、空格、数字和其他字,https://www.nowcoder.com//questionTerminal/1720d9c8aaa6494bb279826883df3225
+474,用函数或函数的递归实现求n!的算法。（主程序已给出）。同,https://www.nowcoder.com//questionTerminal/ff424a3726d44c339a5c959f74c15f5f
+475,请输入一个文件路径名或文件名，查看该文件是否存在，如存在,https://www.nowcoder.com//questionTerminal/fbdb370d36e04f4c869a1ea3fe129d46
+476,定义函数calAvg()，计算某一门课程的平均分（函数参,https://www.nowcoder.com//questionTerminal/e22b97d74ddb4d5b9702b3060701fca3
+477,当前目录下有一个文本文件sample12.txt，其内容,https://www.nowcoder.com//questionTerminal/ac8c6348cdbc4e4693e3838195f1741c
+478,找出函数的最宽尖峰,https://www.nowcoder.com//questionTerminal/5786ab19844446f8b3de155cf39aeaa3
+479,【编程】打印出当前时刻</span> </p>,https://www.nowcoder.com//questionTerminal/cff814a87f474b1a88c04c3ad3b78bdd
+480,"有一组关键字为{77,28,38,41,45,1,9,31,99,51,23,47,68,61}.1,请构造一个hash函数，形式为H（key）=key mod p，装填因子a=0.8，用链地址法解决冲突；2计算等概率情况下查找成功的平均查找长度；3计算等概率情况下查找失败的平均查找长度（空指针的比较不计入）。",https://www.nowcoder.com//questionTerminal/a544a0b4ea494c12b070064ca0e0caea
+481,跳跃的蚂蚱 ,https://www.nowcoder.com//questionTerminal/a3cdfd17578b4df98f4382b2eb3a3835
+482,一个字符串的最大回文前缀长度,https://www.nowcoder.com//questionTerminal/c5373fc7bc234d3499cdd8a44d5b6817
+483,【编程】分别从性能优先和维护两个角度完成printChange函数，输入总金额dCash和应付款dCost，打印出应该找零的钱，且尽量给整钱：比如输入总金额5000，应付款33.34元，则打印出”找零1个10元，1个5元，1个1元，一个5毛，一个5分，,https://www.nowcoder.com//questionTerminal/02671896dd5a469e97c7bbfdec83ea7f
+484,数字游戏,https://www.nowcoder.com//questionTerminal/94555493cc924eccb2ea71823a6e0dfc
+485,相似单词变换,https://www.nowcoder.com//questionTerminal/b17ec73d2b7f412d839615a9019b1f3f
+486,世博南美馆,https://www.nowcoder.com//questionTerminal/0c25e22818bf43738a3498ad1d41beb5
+487,距离的总和,https://www.nowcoder.com//questionTerminal/304c600787b54e04bcf4f3edee258b92
+488,水仙花数,https://www.nowcoder.com//questionTerminal/06d2e814a4d946bb8fd710599585316b
+489,Paragraph,https://www.nowcoder.com//questionTerminal/c04899c854db437fa1f593d9368b30dc
+490,N个人参加比赛,https://www.nowcoder.com//questionTerminal/64a0653aa58f4e4ab22a1a761baf9a41
+491,绘制括号序列,https://www.nowcoder.com//questionTerminal/4489280342794d9185b70d009e7a58ff
+492,形式化算式,https://www.nowcoder.com//questionTerminal/7cc4b846c61d49d8ba03e046085dd9af
+493,列表(list)和元组(tuple)的区别&nbsp;&lt;/span,https://www.nowcoder.com//questionTerminal/287341aaf5234989b8ef5ee677e0172e
+494,geohash编码,https://www.nowcoder.com//questionTerminal/197b91cbb4ed4401a744443fb6f63b1e
+495,请参照以下执行结果实现multiply函数。,https://www.nowcoder.com//questionTerminal/732fd3ca16b043cd80b37bbcde75508b
+496,请参照以下执行结果实现multiply函数。,https://www.nowcoder.com//questionTerminal/28997a1f497f4110a8e424a0b693e1fd
+497,下列对协程的理解错误的是？ ,https://www.nowcoder.com//questionTerminal/4d10ddec9610454f8242fe372b69b891
+498,数正方形,https://www.nowcoder.com//questionTerminal/4e0ee2cde3d843719e4ce0e38056c676
+499,下列哪种函式参数定义不合法?  ,https://www.nowcoder.com//questionTerminal/e61c3768109d422f9daba1cdfed96c9f
+500,下列代码执行结果是？        [i**i for i in xrange(3)],https://www.nowcoder.com//questionTerminal/40be9eed50de412d8dade39364119249
+501,"What gets printed?()    names1 = ['Amir', 'Barry', 'Chales', 'Dao'] if 'amir' in names1:     print 1else:     print 2",https://www.nowcoder.com//questionTerminal/a3fa93320e7a4309aa4f1f139ae6f231
+502, 一个段代码定义如下，下列调用结果正确的是？ def bar(multiple):     def foo(n):         return multiple ** n     return foo,https://www.nowcoder.com//questionTerminal/85855733051e4e6199c5a7c6699db09b
+503,1&nbsp;[问答]运行5.3.1小节最后的示例代码，查看结果并分析原因。,https://www.nowcoder.com//questionTerminal/a94c32b6eae5421fa13de5407f0e2513
